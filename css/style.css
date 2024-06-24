@@ -538,7 +538,7 @@ footer p {
   font-size: 1.8rem;
 }
 
-/* ######## Responsive classes ############*/
+/* ######################## Responsive ##############################*/
 
 @media (max-width: 600px) {
   html {
@@ -665,12 +665,12 @@ footer p {
     letter-spacing: 0.23rem;
   }
   .spanALLHeading {
-    font-size: 16vw;
+    font-size: 30vw;
     line-height: 1;
   }
   .content-hero {
     margin-top: 16px;
-    font-size: 25px;
+    font-size: 28px;
     margin-bottom: 2rem;
     letter-spacing: 0.23rem;
   }
@@ -873,7 +873,7 @@ footer p {
     font-size: 3.5rem;
   }
   .spanALLHeading {
-    font-size: 14rem;
+    font-size: 18rem;
   }
   .content-hero {
     margin-bottom: 1rem;
