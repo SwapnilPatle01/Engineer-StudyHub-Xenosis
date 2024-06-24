@@ -1,0 +1,416 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,700;1,200;1,300;1,400;1,500;1,600;1,800&family=Protest+Revolution&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 2rem;
+  line-height: 3rem;
+  font-family: " serif";
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2rem;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+ul {
+  list-style: none;
+}
+
+/* ######## utility classes ############*/
+
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.small-bold-text {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.primary-btn {
+  border: 2px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 10px 22px;
+  color: #ffffff !important;
+  font-weight: 500;
+  transition: 0.2s ease-out;
+}
+
+.secondary-btn {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 10px 22px;
+  color: rgb(0, 0, 0) !important;
+  font-weight: 500;
+  transition: 0.2s ease-out;
+}
+
+/* ######## header[arrow] classes ############*/
+
+.arrow {
+  background-color: rgb(255, 255, 255);
+  opacity: 1;
+  width: 0;
+  height: 0;
+  border-right: 150px solid transparent;
+  border-top: 150px solid #000;
+  transform: rotate(180deg);
+  position: relative;
+}
+
+.arrow-img {
+  position: absolute;
+  top: 0;
+  padding: 2.5rem;
+}
+
+/* ######## Dropdown classes ############*/
+
+/* .dashboard {
+  margin: 2rem;
+  padding: 0 3rem 0 3rem;
+} */
+
+.dashboard-container {
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.active {
+  display: block;
+}
+
+form select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  transition: border-color 0.3s ease;
+}
+Style for dropdowns select {
+  width: 300px;
+  padding: 8px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+form select:hover,
+form select:focus {
+  border-color: #3498db;
+}
+/* Style the dashboard heading */
+.dashboard-heading {
+  font-family: "Grenze Gotisch", sans-serif;
+  font-size: 80px;
+  color: #e5e7eb;
+  margin-top: -3rem;
+}
+
+/*  animation for the dashboard heading */
+
+.dashboard-heading {
+  opacity: 0;
+  transform: translateY(-20px);
+  animation: fadeInUp 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.dashboard form {
+  width: 400px;
+}
+/* ######## Tab-menu  classes ############*/
+
+.tabs-container {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 15px;
+}
+
+.tab {
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 10px 80px;
+  background-color: #ffffff;
+  text-align: left;
+  color: #000000;
+  border-radius: 15px;
+  font-weight: 700;
+}
+
+/* .tab:hover {
+  transition: background-color 1s ease-in-out;
+  background-color: #e5e7eb;
+  color: #000;
+} */
+
+.tab.active {
+  background-color: #8a8a8a;
+  color: #ffffff;
+}
+
+.tab-content-container {
+  margin-top: 2rem;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  background-color: rgb(14, 14, 14);
+  border-radius: 15px;
+  color: #fff;
+  height: 430px;
+  overflow-y: auto;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  width: 690px;
+}
+/* .tab-content-container2 {
+  display: flex;
+  align-items: stretch;
+  gap: 1rem;
+  padding-bottom: 3rem;
+} */
+
+.tab-content {
+  display: none;
+  padding: 20px;
+}
+
+.tab-content.active {
+  display: block;
+}
+.video-item {
+  display: flex;
+  gap: 1rem;
+  padding-bottom: 3rem;
+}
+.details h2 {
+  font-size: 18px;
+}
+
+.details p {
+  font-size: 14px;
+}
+
+img {
+  max-width: 200px;
+  height: auto;
+}
+
+.tab-content a {
+  display: block;
+  margin-top: 10px;
+  padding: 8px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.tab-content a:hover {
+  background-color: #45a049;
+}
+.content-item {
+  padding-bottom: 2rem;
+}
+
+/* fadeIn animation for the dashboard heading */
+.fadeIn {
+  animation: fadeIn 1s ease-in-out;
+}
+
+/* slideInRight animation for the tab menu */
+.tab-menu-container {
+  animation: slideInRight 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/*  animation for the tab hover effect */
+/* .tab:hover {
+  transition: background-color 0.5s ease-in-out;
+  background-color: #e5e7eb;
+  color: #000;
+  border-radius: 15px;
+} */
+
+.tab-content {
+  animation: fadeInTabContent 1s ease-in-out;
+}
+
+@keyframes fadeInTabContent {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/*  styling for buttons */
+.btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+.content-item h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+/* Responsive styles for screens up to 600px */
+
+@media (max-width: 600px) {
+  html {
+    font-size: 50%;
+  }
+  .container {
+    width: 100%;
+  }
+  .dashboard-container {
+    flex-direction: column;
+  }
+  .dropdown-container {
+    width: 100%;
+  }
+  .dashboard-heading {
+    font-size: 8rem;
+    margin-top: -8rem;
+  }
+  .tab-menu-container {
+    flex-direction: column;
+    width: 100%;
+  }
+  .tabs-container {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 15px;
+  }
+  /* .tabs-container {
+    flex-direction: column;
+    align-items: stretch;
+  } */
+
+  .tab {
+    padding: 1rem 3.2rem;
+    margin-bottom: 5px;
+  }
+
+  .tab-content-container {
+    margin-top: 1rem;
+    width: 100%;
+    height: 56vh;
+    overflow: scroll;
+  }
+
+  .tab-content {
+    padding: 10px;
+  }
+
+  .dropdown-container {
+    text-align: center;
+  }
+  .dropdown-select {
+    width: 100%;
+  }
+  .dynamic-dropdown option {
+    width: 100%;
+  }
+  form select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .arrow {
+    border-right: 110px solid transparent;
+    border-top: 110px solid #000;
+  }
+
+  .arrow-img {
+    position: absolute;
+    top: 0;
+    padding: 1.5rem;
+  }
+  .video-item img {
+    max-width: 140px;
+  }
+  .dashboard form {
+    width: 100%;
+  }
+}

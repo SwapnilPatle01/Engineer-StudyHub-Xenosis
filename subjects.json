@@ -1,0 +1,2275 @@
+{
+  "cse1": {
+    "Engineering Mathematics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus-m1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-3281-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Mathematics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Mathematics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Mathematics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2014.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Question Bank",
+          "description": "Important Qustions for Engineering Mathematics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-Unit-1",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "Notes/1st year/1st sem/Applied chemistry/m1 u1 notes.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-Unit-2",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "Notes/1st year/1st sem/Applied chemistry/m1 u2 notes.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-Unit-3",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "Notes/1st year/1st sem/Applied chemistry/m1u3.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-Unit-4",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "Notes/1st year/1st sem/Applied chemistry/m1u4.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-Unit-5",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "Notes/1st year/1st sem/Applied chemistry/m1u5.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": " Unit 1: Differential Calculus",
+          "description": "What is Differential Calculus?, Successive differentiation: Leibnitz’s Rule,Taylor’s.",
+          "youtube": "https://www.youtube.com/watch?v=A6Ad7VnSlZE&list=PLNKD1qB9ppttx4WuHV0TWRy5dWuVSKEtT",
+          "image": "https://i.ytimg.com/vi/A6Ad7VnSlZE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCaFa5KMhO5EVQ1R4kVsPbiIO4qQ"
+        },
+        {
+          "key": 2,
+          "heading": "Unit 2: Multivariable Calculus (Differentiation)",
+          "description": " Functions of several variables, First and Higher order partial derivatives, Euler’s theorem.",
+          "youtube": "https://www.youtube.com/watch?v=eTp5wq-cSXY&list=PLU6SqdYcYsfLuIJdHwY92aGBg5-uRHBOb",
+          "image": "https://i.ytimg.com/vi/eTp5wq-cSXY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-Mm0IjucVClQZTzfnmpztaCe6BQ"
+        },
+        {
+          "key": 3,
+          "heading": "Unit 4: Matrices",
+          "description": "Inverse of a matrix by Partitioning method, Rank of a matrix, Consistency of linear system.",
+          "youtube": "https://www.youtube.com/watch?v=5c5PsHWR_qo&list=PLNKD1qB9pptv5bt5v8EArZL4PxPWhh03E",
+          "image": "https://i.ytimg.com/vi/5c5PsHWR_qo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBRdn6y_AuQPq9d9memEVXup2urPA"
+        },
+        {
+          "key": 4,
+          "heading": "Unit 5: First Order Ordinary Differential Equations",
+          "description": " Linear, Reducible to linear and Bernoulli’s differential equations, Exact differential equations.",
+          "youtube": "https://www.youtube.com/watch?v=TH4Kd9mfIgI&list=PLT3bOBUU3L9g0aergP43HK9ihc_UG7Kbx",
+          "image": "https://i.ytimg.com/vi/TH4Kd9mfIgI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAOZbXjkeMzWkePTZjxYHxS6NZGnA"
+        },
+        {
+          "key": 5,
+          "heading": "Unit 6: Higher Order Ordinary Differential Equations",
+          "description": " Higher order ordinary linear differential equations with constant coefficients.",
+          "youtube": "https://www.youtube.com/watch?v=obNu-5uiu-Y&list=PLNKD1qB9ppttgKvBIC0cpPbBBLoCgLT1g",
+          "image": "https://i.ytimg.com/vi/obNu-5uiu-Y/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6bOqivb_ZLFvA-JEbn7YkC2O4Tw"
+        }
+      ]
+    },
+    "Engineering Physics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Applied Physics.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-3282-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Physics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Physics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Physics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Question Bank",
+          "description": "Important Qustions for Engineering Physics",
+          "pdf": "Notes/1st year/1st sem/applied physics/QB Applied Physics 1st sem 2023.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics Unit-1",
+          "pdf": "Notes/1st year/1st sem/applied physics/Sem 1 Unit 1 Wave Optics.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics Unit-2",
+          "pdf": "Notes/1st year/1st sem/applied physics/Unit 2-Quantum Mechanics Question bank with answers.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Unit 1 :- Wave optics",
+          "description": "What is a  Wave optics ? Huygen’s principle, superposition of waves and interference of light ",
+          "youtube": "https://www.youtube.com/watch?v=T-e_OHNorn0&list=PLF_SObSnxBuDnV3Xeh6MlUe1knThNyyPz",
+          "image": "https://i.ytimg.com/vi/T-e_OHNorn0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCgJEF_h1SQYuoOfflX-co9e5a37g"
+        },
+        {
+          "key": 2,
+          "heading": "Unit 2 :- Quantum mechanics",
+          "description": "What is a quantum mechanics?, de-Broglie Hypothesis, Matter Waves, Davisson-Germer Experimentl",
+          "youtube": "https://www.youtube.com/watch?v=mDh7KWFBPXQ&list=PLnU_6InKwomFPUn1k5np6NtnoU38TW2PT",
+          "image": "https://i.ytimg.com/vi/lZ3bPUKo5zc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD127OKljJyNSXfM7iP12IBm4WJNA"
+        },
+        {
+          "key": 3,
+          "heading": "Unit 3 :- Crystal Structure ",
+          "description": "What is a Crystal Structure ? Meaning of lattice and basis, Unit cell: primitive and non primitive unit cell",
+          "youtube": "https://www.youtube.com/watch?v=BmgdG7tiquc&list=PLAPKGqvQGg6o8SJVVeZ3zdqaj37vdwR9j",
+          "image": "https://i.ytimg.com/vi/5h5gXoFyo64/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfKTmzSVRZW5ZO6KCoL-mTO-y4Gg"
+        },
+        {
+          "key": 4,
+          "heading": "Unit 4 :- Optical Fiber ",
+          "description": "What is a Optical Fiber ? Light sources and Detectors, Applications of optical fiber as Sensors",
+          "youtube": "https://www.youtube.com/watch?v=mDh7KWFBPXQ&list=PLnU_6InKwomFPUn1k5np6NtnoU38TW2PT",
+          "image": "https://i.ytimg.com/vi/BmgdG7tiquc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBcqf6kmLYIeoE5gAcmhUv--dwLQw"
+        },
+        {
+          "key": 5,
+          "heading": "Unit 5 :- Electron Optics",
+          "description": "What is a Electron Optics? Basic idea of motion of charged particle in electric and magnetic fields, Velocity selector",
+          "youtube": "https://www.youtube.com/watch?v=PYMffe5Sd1w",
+          "image": "https://i.ytimg.com/vi/PYMffe5Sd1w/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCwOfW5ehipoIqzvk1NQA7apQhkmQ"
+        }
+      ]
+    },
+    "Energy and Environment": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Energy and Environment-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Energy and Environment.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Energy and Environment-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-3283-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Energy and Environment-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Energy and Environment-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Energy and Environment-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Energy and Environment-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Energy and Environment-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Energy and Environment-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Energy and Environment-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Energy and Environment-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Unit 1 :- Basics of Energy and Solid Fuels",
+          "description": "What is Energy and Solid Fuels ? Thermal Basics of energy -fuels and thermal energy.",
+          "youtube": "https://www.youtube.com/watch?v=6Fk4DSMzlm8",
+          "image": "https://i.ytimg.com/vi/6Fk4DSMzlm8/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLB9crisM8WIC3_t1HQis7PGyfAU8A"
+        },
+        {
+          "key": 2,
+          "heading": "Unit 2 :- Liquid and Gaseous Fuels ",
+          "description": "What is Liquid and Gaseous Fuels?, -Fractional distillation of crude oil.",
+          "youtube": "https://www.youtube.com/watch?v=dZ69RBinLbg",
+          "image": "https://i.ytimg.com/vi/dZ69RBinLbg/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLD1Ljnqyrpbcb_3bgqavLOJfb_srw"
+        },
+        {
+          "key": 3,
+          "heading": "Unit 3 :- AlternateSources of Energy &Waste to Energy Conversion  ",
+          "description": "What is AlternateSources of Energy &Waste to Energy Conversion ? Meaning of lattice.",
+          "youtube": "https://www.youtube.com/watch?v=E6dX1i9s1I0",
+          "image": "https://i.ytimg.com/vi/E6dX1i9s1I0/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLBOBMdm6mFLpPxvruzXgYTqnIocHQ"
+        }
+      ]
+    },
+    "Engineering Graphics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_engineering graphic.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-3286-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Graphics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Graphics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-v2-2015.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics",
+          "description": "Important notes for Engineering Graphics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Unit 1 :- Introduction of Engineering Graphics",
+          "description": "What is Engineering Graphics ? Uses of drawing instrument",
+          "youtube": "https://www.youtube.com/watch?v=uojN7SOHPBw&list=PL9RcWoqXmzaJT-fliqTSwUjWU4zCX_H2A",
+          "image": "https://i.ytimg.com/vi/uojN7SOHPBw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBiyo2PehYVcsPRgF028ozcgBcNxg"
+        },
+        {
+          "key": 2,
+          "heading": "Unit 2 :- Projection of Plans ",
+          "description": "What is Projection of Plans?, Types of plans and projection of solids",
+          "youtube": "https://www.youtube.com/watch?v=e25UM72eNkM&list=PLDN15nk5uLiBVR22X01vcnvVCuQIklXGx",
+          "image": "https://i.ytimg.com/vi/e25UM72eNkM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCf_mdX7OXOvwQs1GNq6pK8m4-QfA"
+        },
+        {
+          "key": 3,
+          "heading": "Unit 3 : Section of solid ",
+          "description": "What is  Section of solid ? Meaning of Section of solid and types of section plans.",
+          "youtube": "https://www.youtube.com/watch?v=HiLPFKrwyG4&list=PLhSp9OSVmeyJuqhkSKhwTGWz9H995uyv7",
+          "image": "https://i.ytimg.com/vi/HiLPFKrwyG4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsS0iXwb-saTWP__CMJk4lke8PNA"
+        }
+      ]
+    }
+  },
+
+  "cse2": {
+    "Engineering Mathematics-2": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Syllabus",
+          "pdf": "Syllabus/1st year/2nd sem/BTech 2nd SEM (1) Scheme of Exam & Syllabus_M2.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "PYQ/1st year/2nd sem/M2/be-2-sem-applied-mathematics-2-3287-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-summer-2018",
+          "pdf": "PYQ/1st year/2nd sem/M2/be-2-sem-applied-mathematics-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2017",
+          "pdf": "PYQ/1st year/2nd sem/M2/be-2-sem-applied-mathematics-2-winter-2017.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "PYQ/1st year/2nd sem/M2/be-2-sem-applied-mathematics-2-winter-2016.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "PYQ/1st year/2nd sem/M2/be-2-sem-applied-mathematics-2-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Question Bank",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics2-Unit-1",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": " Unit 1: Integral Calculus",
+          "description": "What is Integral Calculus?, Evaluation of Definite and Improper Integrals.",
+          "youtube": "https://www.youtube.com/watch?v=I7RWAQgMRVI&list=PLNKD1qB9ppttGqVnTA4u9wckS6bCeLp99",
+          "image": "https://i.ytimg.com/vi/I7RWAQgMRVI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBPnfC0gGKXWqKMuH9-orfmCbLaMA"
+        },
+        {
+          "key": 2,
+          "heading": " Unit 2: Multivariable Calculus (Integration)",
+          "description": "What is Multivariable Calculus? Double integrals (Cartesian and Polar).",
+          "youtube": "https://www.youtube.com/watch?v=swF628VHQDo&list=PLT3bOBUU3L9iJduBlC3tcC6RN2TvUwAno",
+          "image": "https://i.ytimg.com/vi/swF628VHQDo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBGOGsUBBOrGulxim19p6jQ75_VRg"
+        },
+        {
+          "key": 3,
+          "heading": "Unit 3: Vector Calculus",
+          "description": "What is Vector Calculus?Vector triple product, Product of four vectors.",
+          "youtube": "https://www.youtube.com/watch?v=FfJtVvQtqTM&list=PLU6SqdYcYsfJz9FAzbgocIjlkw4NXAar-",
+          "image": "https://i.ytimg.com/vi/FfJtVvQtqTM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD703DMKGBOKoQRCf5QFZTOAGAx6w"
+        },
+        {
+          "key": 4,
+          "heading": "Unit 4: Statistics",
+          "description": "What is Statistics?, Fitting of a Curve by Method of Least Squares: Straight line.",
+          "youtube": "https://www.youtube.com/watch?v=V3iEsLPAD68&list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK",
+          "image": "https://i.ytimg.com/vi/V3iEsLPAD68/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATLXJBqNIu17vXUfUwzVi75EWz4w"
+        },
+        {
+          "key": 4,
+          "heading": " Unit 5: Finite Differences",
+          "description": "What is Finite Differences? Operators E & Delta, Factorial polynomial.",
+          "youtube": "https://www.youtube.com/watch?v=nF6MRvqXITc&list=PL6_Q82ANVQs0WC1qrn8CLasFkuuZJTMb0",
+          "image": "https://i.ytimg.com/vi/nF6MRvqXITc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUMgXifcTML7fZuZv6Uchc4vXFvQ"
+        }
+      ]
+    },
+    "Engineering Physics-2": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-2-Syllabus",
+          "pdf": "Syllabus/1st year/2nd sem/BTech 2nd SEM (1) Scheme of Exam & Syllabus_Advanced Engineering Materials .pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "PYQ/1st year/2nd sem/PHYSICS  2/be-2-sem-advanced-physics-3288-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "PYQ/1st year/2nd sem/PHYSICS  2/be-2-sem-advanced-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "physics-1/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "PYQ/1st year/2nd sem/PHYSICS  2/be-2-sem-advanced-physics-summer-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "PYQ/1st year/2nd sem/PHYSICS  2/be-2-sem-advanced-physics-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics Unit-1",
+          "pdf": "Notes/1st year/1st sem/applied physics/Sem 1 Unit 1 Wave Optics.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics Unit-2",
+          "pdf": "Notes/1st year/1st sem/applied physics/Unit 2-Quantum Mechanics Question bank with answers.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Unit - 1: Band theory of solids",
+          "description": "What is Band theory of solids?,Basic idea of free electron theory of metals, expression of conductivity.",
+          "youtube": "https://www.youtube.com/watch?v=xUImp2oZfms",
+          "image": "https://i.ytimg.com/vi/88lo7MgCpNo/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLAA-hS-H4GXfPJPVTSOoDWKo6JJ-Q"
+        },
+        {
+          "key": 2,
+          "heading": "Unit-2: Semiconductor Devices ",
+          "description": " Types of Semiconductor diodes, P-N junction Diode:  Characteristics of P-N junction Diode,Tunnel Diode.",
+          "youtube": "https://www.youtube.com/watch?v=ZV3X4XKypgk&list=PLq6b-r81cS_wsdn2P_gvgXOvkgRPT-1dD",
+          "image": "https://i.ytimg.com/vi/ZV3X4XKypgk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvvZ6o_EI2eYlPiZMjX5HjYFZGOw"
+        },
+        {
+          "key": 3,
+          "heading": "Unit 3: Magnetic and Superconducting Materials",
+          "description": "Diamagnetic, Paramagnetic, Ferromagnetic, Ferri-magnetic and anti ferromagnetic materials. ",
+          "youtube": "https://www.youtube.com/watch?v=KML9XYC2cb8&list=PLF_SObSnxBuATJXDgrNYJEp6HoYqcLWxi",
+          "image": "https://i.ytimg.com/vi/KML9XYC2cb8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_rgsSQR-imUj_M5Dr4UdeYRXnqA"
+        },
+        {
+          "key": 4,
+          "heading": "Unit 4: Lasers ",
+          "description": " Quantum Transitions: Absorption, Spontaneous emission & stimulated Emission, Metastable states.",
+          "youtube": "https://www.youtube.com/watch?v=i1EI503LhFQ",
+          "image": "https://i.ytimg.com/vi/i1EI503LhFQ/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCA7Jh8s8GUNDyVWEHuGrTFn3mkQQ"
+        },
+        {
+          "key": 5,
+          "heading": "Unit 5: Nanoscience and Nanomaterials",
+          "description": " Introduction to Nanoscience, Classification of nano materials, Types of Synthesis of Nanomaterials. ",
+          "youtube": "https://www.youtube.com/watch?v=tlzlNg6xC5E",
+          "image": "https://i.ytimg.com/vi/tlzlNg6xC5E/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAH2YCihPH1wpegdH7fW2gc-ul_7A"
+        }
+      ]
+    },
+    "Engineering Chemistry-2": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Chemistry-2-Syllabus",
+          "pdf": "Syllabus/1st year/2nd sem/BTech 2nd SEM (1) Scheme of Exam & Syllabus_APPLIED CHEMISTRY.pdf"
+        },
+        {
+          "key": 1,
+          "title": "Engineering Chemistry-summer-2019",
+          "pdf": "PYQ/1st year/2nd sem/chemistry 2/be-2-sem-materials-chemistry-3289-summer-2019.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Chemistry-summer-2018",
+          "pdf": "PYQ/1st year/2nd sem/chemistry 2/be-2-sem-materials-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Chemistry-winter-2017",
+          "pdf": "PYQ/1st year/2nd sem/chemistry 2/be-2-sem-materials-chemistry-winter-2017.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Chemistry-summer-2016",
+          "pdf": "PYQ/1st year/2nd sem/chemistry 2/be-2-sem-materials-chemistry-2016.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Chemistry-summer-2015",
+          "pdf": "PYQ/1st year/2nd sem/chemistry 2/be-2-sem-materials-chemistry-2015.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Chemistry-summer-2014",
+          "pdf": "PYQ/1st year/2nd sem/chemistry 2/be-2-sem-materials-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "video-thumbnail-img/word-coming-soon-written-black-marker-yellow-paper-notes-text-work-progress-197512079.webp"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "UNIT-1: Periodic Properties",
+          "description": "Periodic properties :- Effective Nuclear charge, electronegativity and polarizabilityNumerical.",
+          "youtube": "https://www.youtube.com/watch?v=NMN1zm_X9bk&list=PLT3bOBUU3L9gan-gjVkz6f9hZJYpHapH",
+          "image": "https://i.ytimg.com/vi/NMN1zm_X9bk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgFREDC0GDINxAWE_il2plBPc03Q"
+        },
+        {
+          "key": 2,
+          "heading": "UNIT-2 Thermodynamic & Corrosion",
+          "description": "Definition & basic equation of internal energy and enthalpy   Numerical on internal energy.",
+          "youtube": "https://www.youtube.com/watch?v=Os8W0sLuOFc",
+          "image": "https://i.ytimg.com/vi/Os8W0sLuOFc/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLDZNyCyX7aNG5Gi0iPLHl3X5e8aTA"
+        },
+        {
+          "key": 3,
+          "heading": "UNIT-3 Applications of Spectroscopic Techniques",
+          "description": "Principles of spectroscopy and selection rules.",
+          "youtube": "https://www.youtube.com/watch?v=4u3j5efBtE4",
+          "image": "https://i.ytimg.com/vi/4u3j5efBtE4/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDicXtOrAEPBTkhGseKrcTcRIwtmA"
+        },
+        {
+          "key": 4,
+          "heading": "UNIT-4 Basic Green Chemistry ",
+          "description": "Green Chemistry:- Introduction, twelve principles of Green chemistry.",
+          "youtube": "https://www.youtube.com/watch?v=uLlgbszwlKI",
+          "image": "https://i.ytimg.com/vi/uLlgbszwlKI/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAASJa2TjaN7-c81CewS2pyR3hTIA"
+        },
+        {
+          "key": 5,
+          "heading": "UNIT-5 Water Technology ",
+          "description": " Importance of Hardness and Alkalinity of water.Industrial Water Treatment. ",
+          "youtube": "https://www.youtube.com/watch?v=73ACejWxxFc&list=PLqNIX_r6zEtYliL3312JY2EuAznafga7T",
+          "image": "https://i.ytimg.com/vi/73ACejWxxFc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCE4TfnxCJc6dXVEgF1P7oLqHG7ZQ"
+        }
+      ]
+    },
+    "Engineering Mechanics": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "EM-Syllabus",
+          "pdf": "Syllabus/1st year/2nd sem/BTech 2nd SEM (1) Scheme of Exam & Syllabus_Engineering Mechanics.pdf"
+        },
+        {
+          "key": 1,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "PYQ/1st year/2nd sem/EM/be-2-sem-engineering-mechanics-3290-summer-2019.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "PYQ/1st year/2nd sem/EM/be-2-sem-engineering-mechanics-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "PYQ/1st year/2nd sem/EM/be-2-sem-engineering-mechanics-summer-2017.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "EG-sem-1/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "PYQ/1st year/2nd sem/EM/be-2-sem-engineering-mechanics-2016.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "PYQ/1st year/2nd sem/EM/be-2-sem-engineering-mechanics-2015.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "PYQ/1st year/2nd sem/EM/be-2-sem-engineering-mechanics-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "UNIT-1: Important of vector quantities",
+          "description": "vectors and  scalars, cross product, dot product, vector triple product.",
+          "youtube": "https://www.youtube.com/watch?v=NMN1zm_X9bk&list=PLT3bOBUU3L9gan-gjVkz6f9hZJYpHapH",
+          "image": "https://i.ytimg.com/vi/57RDlihD7Y8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6BJ3-mS3j3PdHmW1opAZwJNckkQ"
+        },
+        {
+          "key": 2,
+          "heading": "UNIT-2 Equation of Equilibrium",
+          "description": " What is equation of equilibrium & Corrosion and what is free body daigram. ",
+          "youtube": "https://www.youtube.com/watch?v=azf3VSyEAJ0&list=PLDN15nk5uLiAAqXRqpIPTEgf_KcblFrPx",
+          "image": "https://i.ytimg.com/vi/azf3VSyEAJ0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCvw2nwcY2c1OdbTLEJaOZj2vAlPQ"
+        }
+      ]
+    }
+  },
+  "ece1": {
+    "Engineering Mathematics-3": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-3-Syllabus",
+          "pdf": "Syllabus/2nd year/3rd sem/3rd sem_M3.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-3-winter-2022",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematics-3-2529-winter-2022.pdf"
+        },
+
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-3-summer-2018",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematicse-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-3-winter-2018",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematics-3-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-3-summer-2017",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematicse-jun-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-3-winter-2017",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematicse-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-3-summer-2016",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematicse-3-summer-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Mathematics-3-winter-2016",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematicse-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Mathematics-3-summer-2015",
+          "pdf": "PYQ/2nd year/3rd sem/M3/cse-3-sem-applied-mathematicse-3-winter-2015.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Computer Architecture & Organization": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Computer Architecture & Organization-Syllabus",
+          "pdf": "Syllabus/2nd year/3rd sem/3rd cao.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Computer Architecture & Organization-winter-2022",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-digital-system-2532-winter-2022.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Computer Architecture & Organization-summerer-2019",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organization-3326-summer-2019.pdf"
+        },
+
+        {
+          "key": 3,
+          "title": "Computer Architecture & Organization-summer-2018",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-organization-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Computer Architecture & Organization-winter-2018",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organization-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Computer Architecture & Organization-summer-2017",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organization-jun-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Computer Architecture & Organization-winter-2017",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organization-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Computer Architecture & Organization-summer-2016",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organisation-summer-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Computer Architecture & Organization-winter-2016",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organization-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Computer Architecture & Organization-winter-2015",
+          "pdf": "PYQ/2nd year/3rd sem/Computer Architecture & Organization/cse-3-sem-computer-architecture-and-organization-winter-2016.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Object Orainted programming with Java": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "OOP'S With Java-Syllabus",
+          "pdf": "Syllabus/2nd year/3rd sem/3rd cao.pdf"
+        },
+        {
+          "key": 3,
+          "title": "OOP'S With Java-winter-2022",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-3-sem-object-oriented-programming-with-java-2530-winter-2022.pdf"
+        },
+        {
+          "key": 3,
+          "title": "OOP'S With Java-summerer-2019",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-3434-summer-2019.pdf"
+        },
+
+        {
+          "key": 3,
+          "title": "OOP'S With Java-summer-2018",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "OOP'S With Java-winter-2018",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "OOP'S With Java-summer-2017",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-jun-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "OOP'S With Java-winter-2017",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "OOP'S With Java-summer-2016",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-v2-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "OOP'S With-winter-2016",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "OOP'S With Java-winter-2015",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2015.pdf"
+        },
+        {
+          "key": 8,
+          "title": "OOP'S With Java-summer-2015",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-summer-2015.pdf Java"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "EIT": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "OOP'S With Java-Syllabus",
+          "pdf": "Syllabus/2nd year/3rd sem/3rd cao.pdf"
+        },
+        {
+          "key": 3,
+          "title": "OOP'S With Java-winter-2022",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-3-sem-object-oriented-programming-with-java-2530-winter-2022.pdf"
+        },
+        {
+          "key": 3,
+          "title": "OOP'S With Java-summerer-2019",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-3434-summer-2019.pdf"
+        },
+
+        {
+          "key": 3,
+          "title": "OOP'S With Java-summer-2018",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-summer-2018.pdf"
+        },
+        {
+          "key": 3,
+          "title": "OOP'S With Java-winter-2018",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "OOP'S With Java-summer-2017",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-jun-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "OOP'S With Java-winter-2017",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "OOP'S With Java-summer-2016",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-v2-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "OOP'S With-winter-2016",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "OOP'S With Java-winter-2015",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-winter-2015.pdf"
+        },
+        {
+          "key": 8,
+          "title": "OOP'S With Java-summer-2015",
+          "pdf": "PYQ/2nd year/3rd sem/oops with java/cse-5-sem-object-oriented-programming-summer-2015.pdf"
+        }
+      ]
+    },
+    "Operating system": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    }
+  },
+  "CSE-4th-sem": {
+    "Discrete Mathematics and Graph Theory": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Matrices 1",
+          "pdf": "https://example.com/matrices_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Matrices 2",
+          "pdf": "https://example.com/matrices_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Computer Networks ECE1 Notes",
+          "description": "Important notes for Computer Networks",
+          "pdf": "https://example.com/computer_networks_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Database Managements Systems ": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Environmental Studies ECE1 Notes",
+          "description": "Important notes for Environmental Studies",
+          "pdf": "https://example.com/environmental_studies_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Data Structure and Program Desgin": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Environmental Studies ECE1 Notes",
+          "description": "Important notes for Environmental Studies",
+          "pdf": "https://example.com/environmental_studies_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Computer Network": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Environmental Studies ECE1 Notes",
+          "description": "Important notes for Environmental Studies",
+          "pdf": "https://example.com/environmental_studies_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "System Programming": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Environmental Studies ECE1 Notes",
+          "description": "Important notes for Environmental Studies",
+          "pdf": "https://example.com/environmental_studies_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Theory of Computation": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Introduction to Environmental Studies 1",
+          "pdf": "https://example.com/environmental_studies_ece1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Introduction to Environmental Studies 2",
+          "pdf": "https://example.com/environmental_studies_ece2.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Environmental Studies ECE1 Notes",
+          "description": "Important notes for Environmental Studies",
+          "pdf": "https://example.com/environmental_studies_ece1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=physics_cse1",
+          "image": "d4.jpeg"
+        }
+      ]
+    }
+  },
+  "CSE-5th-sem": {
+    "Artficial Intelligence": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus-m1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-3281-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Mathematics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Mathematics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Mathematics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2014.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Question Bank",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "chemistry-sem-1/Notes-1st sem/6sem syllabus .pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-Unit-1",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "chemistry-sem-1/Notes-1st sem/6sem syllabus .pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is a matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=RtuNwdHDEAw&list=PLKS7ZMKnbPrT-Gy4k0r8jAr0mX2K32yyV",
+          "image": "video-thumbnail-img/hqdefault.jpg"
+        },
+        {
+          "key": 2,
+          "heading": "Matrices Basic",
+          "description": "What is the basic formulas of the matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants.",
+          "youtube": "https://www.youtube.com/watch?v=5c5PsHWR_qo&list=PLNKD1qB9pptv5bt5v8EArZL4PxPWhh03EQ",
+          "image": "video-thumbnail-img/hqdefault (2).jpg"
+        },
+        {
+          "key": 3,
+          "heading": "Rank Of Matrices",
+          "description": "What is a rank of matrix?, How to calculate rank of matrix, Minor & Cofactors, and Properties of Determinants.",
+          "youtube": "https://www.youtube.com/watch?v=4Augy2kdEUE&list=PLNKD1qB9pptuJlYVeM-wIETemi5iw_oRQ",
+          "image": "video-thumbnail-img/hqdefault (2).jpg"
+        },
+        {
+          "key": 4,
+          "heading": "What is eigen values and eigen vectors?",
+          "description": "What is eigen values and eigen vectors?, how to calculate eigen values and eigen vectors.",
+          "youtube": "https://www.youtube.com/watch?v=apmSB7kmF38",
+          "image": "video-thumbnail-img/mqdefault_6s.webp"
+        }
+      ]
+    },
+    "Desgin Analysis And Algorithms": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Applied Physics.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-3282-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Physics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Physics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Physics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        },
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Software Engineering and Project Management": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Energy and Environment-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Energy and Environment.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Energy and Environment-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-3283-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Energy and Environment-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Energy and Environment-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Energy and Environment-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Energy and Environment-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Energy and Environment-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Energy and Environment-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Energy and Environment-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Energy and Environment-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d9.png"
+        },
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "d4.jpeg"
+        }
+      ]
+    },
+    "Effective Technical Communication": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_engineering graphic.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-3286-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Graphics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Graphics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-v2-2015.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Physics CSE1 Notes",
+          "description": "Important notes for Engineering Physics",
+          "pdf": "https://example.com/physics_cse1_notes.pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "b7.webp"
+        },
+        {
+          "key": 1,
+          "heading": "Introduction to Computer Networks 1",
+          "description": "What is a computer network?, Types of computer networks, Network topologies, OSI model",
+          "youtube": "https://www.youtube.com/watch?v=computer_networks_ece1",
+          "image": "premium_photo-1685287730190-cddbced4834f.webp"
+        }
+      ]
+    }
+  },
+  "CSE-7th-sem": {
+    "Cryptography & Network Security": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus-m1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-3281-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Mathematics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Mathematics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Mathematics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2014.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2014.pdf"
+        }
+      ],
+      "notes": [
+        {
+          "key": 1,
+          "title": "Question Bank",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "chemistry-sem-1/Notes-1st sem/6sem syllabus .pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-Unit-1",
+          "description": "Important notes for Engineering Mathematics",
+          "pdf": "chemistry-sem-1/Notes-1st sem/6sem syllabus .pdf"
+        }
+      ],
+      "videos": [
+        {
+          "key": 1,
+          "heading": "Introduction to Matrices 1",
+          "description": "What is a matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants",
+          "youtube": "https://www.youtube.com/watch?v=RtuNwdHDEAw&list=PLKS7ZMKnbPrT-Gy4k0r8jAr0mX2K32yyV",
+          "image": "video-thumbnail-img/hqdefault.jpg"
+        },
+        {
+          "key": 2,
+          "heading": "Matrices Basic",
+          "description": "What is the basic formulas of the matrix?, How to calculate Determinants?, Types of Determinants, Minor & Cofactors, and Properties of Determinants.",
+          "youtube": "https://www.youtube.com/watch?v=5c5PsHWR_qo&list=PLNKD1qB9pptv5bt5v8EArZL4PxPWhh03EQ",
+          "image": "video-thumbnail-img/hqdefault (2).jpg"
+        },
+        {
+          "key": 3,
+          "heading": "Rank Of Matrices",
+          "description": "What is a rank of matrix?, How to calculate rank of matrix, Minor & Cofactors, and Properties of Determinants.",
+          "youtube": "https://www.youtube.com/watch?v=4Augy2kdEUE&list=PLNKD1qB9pptuJlYVeM-wIETemi5iw_oRQ",
+          "image": "video-thumbnail-img/hqdefault (2).jpg"
+        },
+        {
+          "key": 4,
+          "heading": "What is eigen values and eigen vectors?",
+          "description": "What is eigen values and eigen vectors?, how to calculate eigen values and eigen vectors.",
+          "youtube": "https://www.youtube.com/watch?v=apmSB7kmF38",
+          "image": "video-thumbnail-img/mqdefault_6s.webp"
+        }
+      ]
+    },
+    " Deep Learning": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Applied Physics.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-3282-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Physics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Physics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Physics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Mobile Computing": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Energy and Environment-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Energy and Environment.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Energy and Environment-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-3283-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Energy and Environment-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Energy and Environment-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Energy and Environment-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Energy and Environment-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Energy and Environment-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Energy and Environment-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Energy and Environment-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Energy and Environment-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    " Python Programming": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_engineering graphic.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-3286-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Graphics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Graphics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-v2-2015.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    }
+  },
+  "CSE-6th-sem": {
+    "Compiler Design": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus-m1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-3281-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Mathematics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Mathematics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Mathematics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2014.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Distributed Operating System": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Applied Physics.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-3282-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Physics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Physics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Physics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Cluster and Cloud Computing": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Energy and Environment-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Energy and Environment.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Energy and Environment-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-3283-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Energy and Environment-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Energy and Environment-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Energy and Environment-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Energy and Environment-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Energy and Environment-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Energy and Environment-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Energy and Environment-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Energy and Environment-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Linux Fundamentals": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_engineering graphic.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-3286-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Graphics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Graphics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-v2-2015.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    }
+  },
+  "CSE-8th-sem": {
+    "Industry Project/Project": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Mathematics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus-m1.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Mathematics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-3281-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Mathematics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Mathematics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-summer-2017.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Mathematics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Mathematics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2016.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Mathematics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-winter-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Mathematics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Mathematics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Mathematics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-2014.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Mathematics-winter-2014",
+          "pdf": "PYQ/1st year/1st sem/m1/be-1-sem-applied-mathematics-1-v2-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Social Networks": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Physics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Applied Physics.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Physics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-3282-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Physics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Physics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Physics-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Physics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Physics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Physics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2015.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Physics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Physics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/physics/be-1-sem-engineering-physics-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Computer Vision": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Energy and Environment-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_Energy and Environment.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Energy and Environment-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-3283-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Energy and Environment-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Energy and Environment-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Energy and Environment-summer-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Energy and Environment-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Energy and Environment-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Energy and Environment-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Energy and Environment-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-v2-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Energy and Environment-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/chemistry/be-1-sem-engineering-chemistry-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    },
+    "Blockchain and its Applications ": {
+      "pyq": [
+        {
+          "key": 1,
+          "title": "Engineering Graphics-Syllabus",
+          "pdf": "Syllabus/1st year/1sem/BTech 1st SEM (1) Scheme of Exam & Syllabus_engineering graphic.pdf"
+        },
+        {
+          "key": 2,
+          "title": "Engineering Graphics-summer-2019",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-3286-summer-2019.pdf"
+        },
+        {
+          "key": 3,
+          "title": "Engineering Graphics-summer-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-summer-2018.pdf"
+        },
+        {
+          "key": 4,
+          "title": "Engineering Graphics-winter-2018",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2018.pdf"
+        },
+        {
+          "key": 5,
+          "title": "Engineering Graphics-summar-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-summer-2017.pdf"
+        },
+        {
+          "key": 6,
+          "title": "Engineering Graphics-winter-2017",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2017.pdf"
+        },
+        {
+          "key": 7,
+          "title": "Engineering Graphics-summer-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2016.pdf"
+        },
+        {
+          "key": 8,
+          "title": "Engineering Graphics-winter-2016",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-winter-2016.pdf"
+        },
+        {
+          "key": 9,
+          "title": "Engineering Graphics-summer-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2015.pdf"
+        },
+        {
+          "key": 10,
+          "title": "Engineering Graphics-winter-2015",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-v2-2015.pdf"
+        },
+        {
+          "key": 11,
+          "title": "Engineering Graphics-summer-2014",
+          "pdf": "PYQ/1st year/1st sem/EG/be-1-sem-engineering-graphics-1-2014.pdf"
+        }
+      ],
+      "notes": [],
+      "videos": []
+    }
+  }
+}
