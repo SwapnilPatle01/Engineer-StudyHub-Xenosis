@@ -14,6 +14,7 @@ const navHeader = document.querySelector(".nav");
 mobileNav.addEventListener("click", () => {
   navHeader.classList.toggle("active");
 });
+
 document.addEventListener("DOMContentLoaded", function () {
   const faqItems = document.querySelectorAll(".faqq");
 

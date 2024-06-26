@@ -95,24 +95,28 @@ ul {
 }
 
 /* ######## Navbar classes ############*/
-
 .nav {
-  background-color: #000;
-  padding: 10px;
-  box-shadow: rgba(96, 95, 95, 10%) 0px 25px 20px -20px;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  opacity: 0.9;
+  padding: 25px;
+  position: relative;
 }
+
 .main-nav {
   justify-content: space-between;
 }
-
 .nav-links ul {
   gap: 30px;
 }
+.moblie-navbar-btn {
+  display: none;
+}
+
+.mobile-nav-icon {
+  font-size: 2rem;
+  font-size: 3.2rem;
+  color: black;
+  color: #ffffff;
+}
+
 button {
   font-size: 2rem;
   background-color: transparent;
@@ -125,17 +129,6 @@ button {
 }
 .btn button:hover {
   opacity: 1;
-}
-
-.moblie-navbar-btn {
-  display: none;
-  cursor: pointer;
-}
-
-.mobile-nav-icon {
-  font-size: 3.2rem;
-  color: black;
-  color: #ffffff;
 }
 
 .mobile-nav-icon[name="close-outline"] {
@@ -537,7 +530,13 @@ footer p {
 .footer-info p a {
   font-size: 1.8rem;
 }
-
+.footer-section-heading {
+  text-decoration: underline;
+}
+.social-link {
+  display: inline-block;
+  margin-right: 10px; /* Adjust spacing here */
+}
 /* ######################## Responsive ##############################*/
 
 @media (max-width: 600px) {
@@ -730,24 +729,39 @@ footer p {
   }
 
   /* ############ Footer classes ##############*/
+
   .footer-right {
-    width: 0px;
+    /* width: 0px; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   .footer-left {
+    width: 80%;
     display: flex;
-    justify-content: center;
-    width: 100%;
+    flex-direction: column;
   }
-
+  .footer-left img {
+    max-height: 300px;
+  }
+  .footer-container {
+    flex-direction: column;
+  }
   .info-container {
-    display: none;
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .footer-info h3 {
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .footer-info p a {
+    font-size: 2rem;
   }
   .footer-buttom p {
     padding: 0 2rem;
   }
-  /* .footer-buttom {
-    height: 100px;
-  } */
 }
 
 /* ##### 601 to 768 #### */
@@ -807,6 +821,7 @@ footer p {
     pointer-events: none;
     z-index: 999999;
   }
+
   .nav-links ul {
     width: 100%;
     text-align: center;
@@ -820,13 +835,13 @@ footer p {
   }
   .nav-links ul {
     justify-content: flex-start;
-    gap: 30px;
+    gap: 25px;
   }
   .nav-links ul li a {
     font-weight: 900;
     font-family: sans-serif;
     width: 100%;
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .active .nav-links ul {
@@ -933,16 +948,33 @@ footer p {
   /* ############ Footer classes ##############*/
 
   .footer-right {
-    display: none;
-    width: 0px;
+    /* width: 0px; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   .footer-left {
+    width: 60%;
     display: flex;
-    justify-content: center;
-    width: 100%;
+    flex-direction: column;
+  }
+  .footer-left img {
+    max-height: 300px;
+  }
+  .footer-container {
+    flex-direction: column;
   }
   .info-container {
-    display: none;
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .footer-info h3 {
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .footer-info p a {
+    font-size: 2rem;
   }
   .footer-buttom p {
     padding: 0 2rem;
@@ -1132,22 +1164,37 @@ footer p {
   }
 
   /* ############ Footer classes ##############*/
+
   .footer-right {
-    display: none;
-    width: 0px;
+    /* width: 0px; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   .footer-left {
+    width: 80%;
     display: flex;
-    justify-content: center;
-    width: 100%;
+    flex-direction: column;
+  }
+  .footer-left img {
+    max-height: 300px;
+  }
+  .footer-container {
+    flex-direction: column;
   }
   .info-container {
-    display: none;
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .footer-info h3 {
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .footer-info p a {
+    font-size: 2rem;
   }
   .footer-buttom p {
     padding: 0 2rem;
   }
-  /* .footer-buttom {
-    height: 100px;
-  } */
 }
