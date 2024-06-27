@@ -537,6 +537,7 @@ footer p {
   display: inline-block;
   margin-right: 10px; /* Adjust spacing here */
 }
+
 /* ######################## Responsive ##############################*/
 
 @media (max-width: 600px) {
@@ -660,11 +661,11 @@ footer p {
     padding: 3rem;
   }
   .main-heading-hero {
-    font-size: 10vw;
+    font-size: 13vw;
     letter-spacing: 0.23rem;
   }
   .spanALLHeading {
-    font-size: 30vw;
+    font-size: 35vw;
     line-height: 1;
   }
   .content-hero {
