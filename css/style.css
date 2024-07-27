@@ -151,7 +151,8 @@ button {
   font-weight: 800;
 }
 .studyhub-sign-heading h1 {
-  color: #12c9ff;
+  color: #000;
+  font-size: 3rem;
 }
 .signupbtn {
   background-color: #12c9ff;
@@ -180,7 +181,6 @@ button {
   overflow: hidden;
   padding-top: 50px;
   box-shadow: 0px 5px 25px rgba(241, 235, 235, 0.2);
-
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   font-family: " serif";
@@ -194,6 +194,10 @@ button {
   margin: 2% auto 3% auto;
   width: 600px;
   height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 hr {
@@ -281,10 +285,9 @@ hr {
   width: 100%;
   background: rgb(0, 255, 106);
   padding: 10px 20px;
-  border-radius: 5px;
-  text-align: center;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 900;
+  text-align: center;
   display: none;
 }
 
