@@ -162,6 +162,11 @@ button {
   width: 50%;
 }
 
+#create-account-btn{
+  background-color: #000;
+  border-radius: 5px;
+}
+
 /* The Modal (background) */
 
 .modal {
