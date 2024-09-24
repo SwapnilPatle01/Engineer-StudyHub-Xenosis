@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="./img/favicon.ico"
+            type="image/x-icon" />
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+        <link rel="stylesheet" href="./css//sgin-up.css" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400&family=Inter:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet" />
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+        <title>Engineer-StudyHub-Sign-up</title>
+    </head>
+
+    <body>
+
+        <!-- ####### Navbar Section ####### -->
+
+        <div class="nav">
+            <div class="container main-nav flex">
+                <div class="logo">
+                    <img src="./img/Engineer-studyhub-nav-log.png"
+                        alt="Engineer-StudyHub-logo" style="width: 30%;">
+                </div>
+                <div class="nav-links">
+                    <ul class="flex ul-container">
+                        <li><a href="./studyHubDashboard.html">Learning
+                                Material</a></li>
+                        <li><a href="#">Job Portal</a></li>
+                        <li><a href="#">Developers Hub</a></li>
+                        <li class="btn">
+                            <button class="hover-links primary-btn"
+                                onclick="document.getElementById('id01').style.display='block'"
+                                style="width:auto;">Login</button>
+                        </li>
+                    </ul>
+                </div>
+                <div class="moblie-navbar-btn" onclick="toggleMenu()">
+                    <ion-icon name="menu-outline"
+                        class="mobile-nav-icon"></ion-icon>
+                    <ion-icon name="close-outline"
+                        class="mobile-nav-icon"></ion-icon>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="register-container">
+            <div class="register-card">
+                <div class="login-image">
+                    <img
+                        src="https://static.vecteezy.com/system/resources/previews/003/689/222/non_2x/online-registration-or-sign-up-login-for-account-on-smartphone-app-user-interface-with-secure-password-mobile-application-for-ui-web-banner-access-cartoon-people-illustration-vector.jpg"
+                        alt="registration" class="rounded-image">
+                </div>
+                <div class="register-form">
+                    <div class="logo-container">
+                        <h2 class="logo-text">Engineer StudyHub</h2>
+                    </div>
+                    <h5 class="form-title">Sign Up to Your Account👋</h5>
+
+                    <!-- Progress Bar -->
+                    <div id="progress-bar" class="progress-bar"></div>
+
+                    <form id="registerForm">
+                        <!-- Step 1 -->
+                        <div class="step" id="step1">
+                            <label for="firstName">First Name</label>
+                            <input type="text" id="firstName" name="firstName"
+                                required>
+
+                            <label for="lastName">Last Name</label>
+                            <input type="text" id="lastName" name="lastName"
+                                required>
+
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email"
+                                required>
+
+                            <label for="role">Select your role</label>
+                            <select id="role" name="role" required>
+                                <option value="student">Student</option>
+                                <option value="company">Company</option>
+                                <option value="admin">Admin</option>
+                            </select>
+                        </div>
+
+                        <!-- Step 2 (Company) -->
+                        <div class="step" id="step2" style="display: none;">
+                            <label for="companyName">Company Name</label>
+                            <input type="text" id="companyName"
+                                name="companyName" required>
+
+                            <label for="companyEmail">Company Work Email</label>
+                            <input type="email" id="companyEmail"
+                                name="companyEmail" required>
+
+                            <label for="linkedinProfile">LinkedIn Profile
+                                Link</label>
+                            <input type="url" id="linkedinProfile"
+                                name="linkedinProfile">
+
+                            <label for="websiteUrl">Website URL</label>
+                            <input type="url" id="websiteUrl" name="websiteUrl">
+
+                            <label for="hiringType">Hiring For</label>
+                            <select id="hiringType" name="hiringType">
+                                <option value="full-time">Full Time</option>
+                                <option value="intern">Intern</option>
+                                <option value="part-time">Part Time</option>
+                                <option value="hackathon">Hackathon</option>
+                            </select>
+                        </div>
+
+                        <!-- Step 3 -->
+                        <div class="step" id="step3" style="display: none;">
+                            <label for="password">Password</label>
+                            <input type="password" id="password" name="password"
+                                required minlength="6">
+
+                            <label for="confirmPassword">Confirm
+                                Password</label>
+                            <input type="password" id="confirmPassword"
+                                name="confirmPassword" required>
+                        </div>
+
+                        <!-- Navigation Buttons -->
+                        <div class="form-navigation">
+                            <button type="button" id="previousBtn"
+                                style="display: none;"
+                                onclick="previousStep()">Previous</button>
+                            <button type="button" id="nextBtn"
+                                onclick="nextStep()">Next</button>
+                            <button type="submit" id="submitBtn"
+                                style="display: none;">Register</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+        <script src="JavaScript/sign-up.js"></script>
+    </body>
+
+</html>
