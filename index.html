@@ -21,96 +21,21 @@
 
         <!-- ####### Navbar Section ####### -->
 
-        <div class="nav">
-            <div class="container main-nav flex">
-                <div class="logo">
-                    <img src="./img/Engineer-studyhub-nav-log.png"
-                        alt="Engineer-StudyHub-logo" style="width: 30%;">
-                </div>
-                <div class="nav-links">
-                    <ul class="flex ul-container">
-                        <li><a href="#feature">Features</a></li>
-                        <li><a
-                                href="./studyHubDashboard.html">Dashboard</a></li>
-                        <li><a href="Contact/contact.html">Contact</a></li>
-                        <li><a href="./Job listings/jobPortal.html">Job
-                                portal</a></li>
-                        <li><a href="#FAQ">FAQ</a></li>
-                        <li class="btn">
-                            <button class="hover-links primary-btn"
-                                onclick="document.getElementById('id01').style.display='block'"
-                                style="width:auto;">Sign Up</button>
-                        </li>
-                    </ul>
-                </div>
-                <div class="moblie-navbar-btn" onclick="toggleMenu()">
-                    <ion-icon name="menu-outline"
-                        class="mobile-nav-icon"></ion-icon>
-                    <ion-icon name="close-outline"
-                        class="mobile-nav-icon"></ion-icon>
-                </div>
-
+        <div class="navBar">
+            <div class="left">
+                <img src="../i mg/Engineer-studyhub-nav-log.png" alt />
+                <button></button>
             </div>
-        </div>
-
-        <!-- ###### SignUp-section ##### -->
-
-        <div id="id01" class="modal">
-            <span onclick="document.getElementById('id01').style.display='none'"
-                class="close"
-                title="Close Modal">&times;</span>
-            <div class="login-container">
-                <div class="login-card">
-                    <div class="login-image">
-                        <img
-                            src="https://img.freepik.com/free-vector/mobile-login-concept-illustration_114360-83.jpg?uid=R115740517&ga=GA1.1.202867201.1719126649&semt=ais_hybrid"
-                            alt="login"
-                            class="rounded-image" />
-                    </div>
-                    <div class="login-form">
-                        <div class="logo-container">
-                            <h2 class="logo-text">Engineer StudyHub</h2>
-                        </div>
-                        <h5 class="form-title">Sign into your account</h5>
-                        <form id="loginForm">
-                            <div class="form-group">
-                                <label for="role">Select your role</label>
-                                <select id="role" name="role" required>
-                                    <option value disabled selected>Select
-                                        role</option>
-                                    <option value="student">Student</option>
-                                    <option value="company">Company</option>
-                                    <option value="admin">Admin</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                <label for="email">Email address</label>
-                                <input type="email" id="email" name="email"
-                                    required>
-                            </div>
-                            <div class="form-group">
-                                <label for="password">Password</label>
-                                <input type="password" id="password"
-                                    name="password" required>
-                            </div>
-                            <div class="form-group remember-me">
-                                <input type="checkbox" id="remember"
-                                    name="remember">
-                                <label for="remember">Remember me</label>
-                            </div>
-                            <button type="submit"
-                                class="login-button">Login</button>
-                            <div class="extra-links">
-                                <a href="#" class="link">Forgot password?</a>
-                                <p class="signup-text">Don't have an account? <a
-                                        href="#" class="link">Register
-                                        here</a></p>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+            <div class="middle">
+                <a href="../index.html">Home</a>
+                <a href="../studyHubDashboard.html">Dashboard</a>
+                <a href="/Job listings/jobPortal.html">Job Portal</a>
+                <a href="../Contact/contact.html">Contact</a>
             </div>
-
+            <div class="right">
+                <a href="#"> <button id="logInBtn">Log in</button></a>
+                <a href="#"><button>Sign up</button></a>
+            </div>
         </div>
 
         <!-- ###### header-section ##### -->
