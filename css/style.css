@@ -100,11 +100,12 @@ ul {
   position: relative;
 }
 
+
 .main-nav {
   justify-content: space-between;
 }
 .nav-links ul {
-  gap: 30px;
+  gap: 20px;
 }
 .moblie-navbar-btn {
   display: none;
