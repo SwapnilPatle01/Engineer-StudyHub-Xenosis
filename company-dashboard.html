@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Dashboard</title>
+    <link rel="stylesheet" href="company-dashboard.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Company Dashboard</h2>
+            </div>
+            <ul class="sidebar-menu">
+                <li><a href="#"><i class="fas fa-home"></i> Dashboard</a></li>
+                <li><a href="#"><i class="fas fa-briefcase"></i> Job Posts</a></li>
+                <li><a href="#"><i class="fas fa-user"></i> Applications</a></li>
+                <li><a href="#"><i class="fas fa-cogs"></i> Settings</a></li>
+                <li><a href="#"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+            </ul>
+        </aside>
+
+        <main class="main-content">
+            <header class="main-header">
+                <h1>Welcome to the Dashboard</h1>
+                <button class="add-job-btn">+ Add New Job Post</button>
+            </header>
+
+            <section class="stats-overview">
+                <div class="stat-card">
+                    <h3>Job Posts</h3>
+                    <p id="job-count">10</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Applications</h3>
+                    <p id="application-count">25</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Active Jobs</h3>
+                    <p id="active-jobs-count">5</p>
+                </div>
+            </section>
+
+            <section class="job-management">
+                <h2>Manage Job Posts</h2>
+                <div id="job-list" class="job-list"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="company-dashboard.js"></script>
+</body>
+</html>
