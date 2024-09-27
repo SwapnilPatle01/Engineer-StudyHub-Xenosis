@@ -97,8 +97,83 @@ ul {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-.navBar {
-  background-color: #181c14;
+
+/* ######## Navbar classes ############*/
+.nav {
+  padding: 25px;
+  position: relative;
+}
+
+.main-nav {
+  justify-content: space-between;
+}
+.nav-links ul {
+  gap: 25px;
+}
+.moblie-navbar-btn {
+  display: none;
+}
+
+.mobile-nav-icon {
+  font-size: 2rem;
+  font-size: 3.2rem;
+  color: black;
+  color: #ffffff;
+}
+
+button {
+  font-size: 2rem;
+  background-color: transparent;
+  color: #ffffff;
+  font-weight: 400;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  /* opacity: 0.9; */
+  width: 100%;
+}
+.btn button:hover {
+  opacity: 1;
+}
+
+.mobile-nav-icon[name="close-outline"] {
+  display: none;
+}
+
+/* ######## Sign-up form classes ############*/
+
+.hr-form {
+  padding-top: 5px;
+  color: #12c9ff;
+}
+.studyhub-sign-heading {
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.studyHub-heading {
+  font-family: "Grenze Gotisch", serif;
+  font-weight: 800;
+}
+.studyhub-sign-heading h1 {
+  color: #12c9ff;
+}
+.signupbtn {
+  background-color: #12c9ff;
+}
+/* signup buttons and add an equal width */
+.signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* The Modal (background) */
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
   width: 100%;
   height: 70px;
   display: flex;

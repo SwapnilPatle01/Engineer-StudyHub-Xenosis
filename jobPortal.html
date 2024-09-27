@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/jobPortal.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400&family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Job Portal(Search the job you want)</title>
+  </head>
+  <body>
+    <!-- ####### Navbar Section ####### -->
+
+    <div class="nav">
+      <div class="main-nav flex">
+        <div class="logo">
+          <img
+            src="./img/Engineer-studyhub-nav-log.png"
+            alt="Engineer-StudyHub-logo"
+            style="width: 40%"
+          />
+        </div>
+        <div class="nav-links">
+          <ul class="flex links">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./studyHubDashboard.html">Dashboard</a></li>
+            <li><a href="./jobPortal.html">Job Portal</a></li>
+            <li><a href="Contact/contact.html">Contact</a></li>
+            
+          </ul>
+        </div>
+        <div class="btns">
+          <button class="btn">Signup</button>
+        </div>
+
+        <div class="ham"><img class="hamburger" src="img/hamburger.svg" /></div>
+
+        <!-- Mobile Menu for smaller screens -->
+        <div class="sidebar">
+          <div class="close">&times;</div>
+          <ul>
+            <li><a href="#">Features</a></li>
+            <li><a href="./studyHubDashboard.html">Dashboard</a></li>
+            <li><a href="./jobPortal.html">Job Portal</a></li>
+            <li><a href="Contact/contact.html">Contact</a></li>
+            <li><a href="#">FAQ</a></li>
+          </ul>
+          <button class="btn">Signup</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ####### JobSearch Section ####### -->
+
+    <div class="container">
+    <form>
+      <div class="search-container">
+        <div class="search-box">
+          <input
+            type="text"
+            placeholder="Title, skill or company"
+            name="search"
+          />
+        </div>
+        <button type="submit"><img src="./img/search.svg"></button>
+      </div>
+
+      <div class="filter">
+        <!-- Location Filter -->
+        <div class="filter-box">
+          <input type="text" placeholder="Location" name="location" />
+        </div>
+
+        <!-- Job Type Filter (Dropdown) -->
+        <div class="filter-box">
+          <select name="jobTitle" required>
+            <option value="" disabled selected>Select Job Title</option>
+            <option value="developer">Developer</option>
+            <option value="web-developer">Web Developer</option>
+            <option value="fullstack">Fullstack Developer</option>
+            <option value="react-developer">React Developer</option>
+            <option value="angular-developer">Angular Developer</option>
+            <option value="java-developer">Java Developer</option>
+            <option value="python-developer">Python Developer</option>
+            <option value="frontend-developer">Frontent Developer</option>
+            <option value="backend-developer">Backend Developer</option>
+          </select>
+        </div>
+
+        <div class="filter-box">
+          <select name="jobType" required>
+            <option value="" disabled selected>Select Job Type</option>
+            <option value="fullTime">Full Time</option>
+            <option value="partTime">Part Time</option>
+            <option value="contract">Contract</option>
+            <option value="internship">Internship</option>
+          </select>
+        </div>
+
+        <!-- Experience Level Filter (Dropdown) -->
+        <div class="filter-box">
+          <select name="experienceLevel" required>
+            <option value="" disabled selected >Select Experience Level</option>
+            <option value="entry">Entry Level</option>
+            <option value="mid">Mid Level</option>
+            <option value="senior">Senior Level</option>
+          </select>
+        </div>
+
+        <!-- Salary Filter (Dropdown) -->
+        <div class="filter-box">
+          <select name="salary" required>
+            <option value="" disabled selected >Select Salary</option>
+            <option value="twenty">20,000 +</option>
+            <option value="fifty">50,000 +</option>
+            <option value="eighty">80,000 +</option>
+            <option value="oneLakh">1,00,000 +</option>
+          </select>
+        </div>
+      </div>
+    </form>
+  </div>
+
+  <div class="cardContainer">
+    
+  </div>
+
+    <script src="jobPortal.js"></script>
+  </body>
+</html>
