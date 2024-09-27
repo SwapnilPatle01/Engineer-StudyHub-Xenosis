@@ -45,6 +45,9 @@ ul {
   list-style: none;
 }
 
+.logo{
+  width: 40%;
+}
 /* ######## utility classes ############*/
 
 .container {

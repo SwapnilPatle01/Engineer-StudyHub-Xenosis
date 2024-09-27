@@ -14,6 +14,47 @@
 </head>
 
 <body>
+  <div class="navBar">
+    <div class="left">
+      <img src="../img/Engineer-studyhub-nav-log.png" alt="" />
+      <button></button>
+    </div>
+    <div class="middle">
+      <a href="../index.html">Home</a>
+      <a href="../studyHubDashboard.html">Dashboard</a>
+      <a href="/Job listings/jobPortal.html">Job Portal</a>
+      <a href="../Contact/contact.html">Contact</a>
+    </div>
+    <div class="right">
+      <a href="#"> <button id="logInBtn">Log in</button></a>
+      <a href="#"><button>Sign up</button></a>
+    </div>
+  </div>
+
+  <span id="openSideBar" class="openSideBar btn btn-outline-light">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      height="24px"
+      viewBox="0 -960 960 960"
+      width="24px"
+      fill="#e8eaed"
+    >
+      <path
+        d="M480-160q-33 0-56.5-23.5T400-240q0-33 23.5-56.5T480-320q33 0 56.5 23.5T560-240q0 33-23.5 56.5T480-160Zm0-240q-33 0-56.5-23.5T400-480q0-33 23.5-56.5T480-560q33 0 56.5 23.5T560-480q0 33-23.5 56.5T480-400Zm0-240q-33 0-56.5-23.5T400-720q0-33 23.5-56.5T480-800q33 0 56.5 23.5T560-720q0 33-23.5 56.5T480-640Z"
+      />
+    </svg>
+  </span>
+
+  <div class="sideBar" id="sideBar">
+    <span class="btn" id="closeSideBar">Close</span>
+    <a href="#">Features</a>
+    <a href="../index.html">Home</a>
+    <a href="../studyHubDashboard.html">Dashboard</a>
+    <a href="/Job listings/jobPortal.html">Job Portal</a>
+    <a href="../Contact/contact.html">Contact</a>
+    <a href="#"><button class="btn btn-outline-light">Log in</button></a>
+    <a href="#"> <button class="btn btn-outline-light">Sign up</button></a>
+  </div>
   <h2 class="heading">Senior Web Developer Details</h2>
   <div class="container">
     <div class="innerContainer">
@@ -58,6 +99,7 @@
     <button class="btn btn-primary">Apply Now</button>
     <button class="btn btn-outline-primary">Save</button>
   </div>
+  <script src="details.js"></script>
 </body>
 
 </html>
