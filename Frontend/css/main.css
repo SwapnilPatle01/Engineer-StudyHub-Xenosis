@@ -45,7 +45,7 @@ ul {
   list-style: none;
 }
 
-.logo{
+.logo {
   width: 40%;
 }
 /* ######## utility classes ############*/
@@ -97,159 +97,6 @@ ul {
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
-
-/* ######## Navbar classes ############*/
-.nav {
-  padding: 25px;
-  position: relative;
-}
-
-.main-nav {
-  justify-content: space-between;
-}
-.nav-links ul {
-  gap: 25px;
-}
-.moblie-navbar-btn {
-  display: none;
-}
-
-.mobile-nav-icon {
-  font-size: 2rem;
-  font-size: 3.2rem;
-  color: black;
-  color: #ffffff;
-}
-
-button {
-  font-size: 2rem;
-  background-color: transparent;
-  color: #ffffff;
-  font-weight: 400;
-  border: 1px solid #ffffff;
-  cursor: pointer;
-  /* opacity: 0.9; */
-  width: 100%;
-}
-.btn button:hover {
-  opacity: 1;
-}
-
-.mobile-nav-icon[name="close-outline"] {
-  display: none;
-}
-
-/* ######## Sign-up form classes ############*/
-
-.hr-form {
-  padding-top: 5px;
-  color: #12c9ff;
-}
-.studyhub-sign-heading {
-  padding-top: 10px;
-  text-align: center;
-  padding-bottom: 5px;
-}
-.studyHub-heading {
-  font-family: "Grenze Gotisch", serif;
-  font-weight: 800;
-}
-.studyhub-sign-heading h1 {
-  color: #12c9ff;
-}
-.signupbtn {
-  background-color: #12c9ff;
-}
-/* signup buttons and add an equal width */
-.signupbtn {
-  float: left;
-  width: 50%;
-}
-
-/* The Modal (background) */
-
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 1;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 70px;
-  display: flex;
-  font-family: "Poppins", sans-serif;
-  font-weight: 100;
-  font-style: normal;
-  font-weight: 600;
-  font-style: normal;
-  border-bottom: 0.3px solid grey;
-}
-
-.navBar .left {
-  width: 20%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.navBar .left img {
-  width: 140px;
-}
-
-.navBar .middle {
-  width: 60%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.navBar .middle a {
-  text-decoration: none;
-  color: white;
-  font-size: 15px;
-  margin: 0px 20px;
-  opacity: 0.8;
-}
-
-.navBar .right {
-  width: 20%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.navBar .right button {
-  width: 90px;
-  height: 45px;
-  font-size: 14px;
-  border-radius: 25px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-  border: none;
-}
-
-#logInBtn {
-  background-color: rgb(45, 45, 45);
-  color: white;
-  opacity: 0.8;
-  margin-right: 10px;
-}
-
-.subNavBar {
-  padding: 20px 0px;
-  background-color: #181c14;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-family: "Poppins", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-  box-shadow: 0 1px 2px rgba(118, 118, 118, 0.2);
-}
 /* ######## Header section classes ############*/
 
 .header-left {
@@ -699,7 +546,6 @@ footer p {
   /* ############ Footer classes ##############*/
 
   .footer-right {
-    /* width: 0px; */
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
@@ -911,41 +757,6 @@ footer p {
   .FAQ-left,
   .FAQ-right {
     width: 100%;
-  }
-
-  /* ############ Footer classes ##############*/
-
-  .footer-right {
-    /* width: 0px; */
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  }
-  .footer-left {
-    width: 60%;
-    display: flex;
-    flex-direction: column;
-  }
-  .footer-left img {
-    max-height: 300px;
-  }
-  .footer-container {
-    flex-direction: column;
-  }
-  .info-container {
-    flex-direction: column;
-    gap: 5rem;
-    align-items: center;
-  }
-  .footer-info h3 {
-    font-family: sans-serif;
-    font-size: 2.5rem;
-    margin-bottom: 0.7rem;
-  }
-  .footer-info p a {
-    font-size: 2rem;
-  }
-  .footer-buttom p {
-    padding: 0 2rem;
   }
 }
 

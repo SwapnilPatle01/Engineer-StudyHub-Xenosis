@@ -1,19 +1,29 @@
-// Get the modal
-var modal = document.getElementById("id01");
+function loadHTML() {
+  // Load header
+  fetch("../components/header.html")
+    .then((response) => {
+      if (!response.ok) throw new Error("Network response was not ok");
+      return response.text();
+    })
+    .then((data) => {
+      document.getElementById("header").innerHTML = data;
+    })
+    .catch((error) => console.error("Error loading header:", error));
 
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function (event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-};
+  // Load footer
+  fetch("../components/footer.html")
+    .then((response) => {
+      if (!response.ok) throw new Error("Network response was not ok");
+      return response.text();
+    })
+    .then((data) => {
+      document.getElementById("footer").innerHTML = data;
+    })
+    .catch((error) => console.error("Error loading footer:", error));
+}
 
-const mobileNav = document.querySelector(".moblie-navbar-btn");
-const navHeader = document.querySelector(".nav");
-
-mobileNav.addEventListener("click", () => {
-  navHeader.classList.toggle("active");
-});
+// Call the function to load components
+loadHTML();
 
 document.addEventListener("DOMContentLoaded", function () {
   const faqItems = document.querySelectorAll(".faqq");
