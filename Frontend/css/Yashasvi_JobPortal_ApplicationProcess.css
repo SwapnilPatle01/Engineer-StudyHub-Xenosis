@@ -1,0 +1,125 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  background: linear-gradient(135deg, #f0f4f8, #d6e6f2);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  max-width: 550px;
+  margin: 50px auto;
+  transition: all 0.3s ease-in-out;
+}
+
+.form-container:hover {
+  transform: scale(1.02);
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+.div-fullname, .div-email, .div-phone, .div-gender, .div-degree, 
+.div-college, .div-branch, .div-passedout, .div-Address, .div-resume, 
+.div-otherdegree {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+#fullName, #email, #phone, #degree, #College, #branch, 
+#Passedout, #otherdegree {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+  background-color: #f9f9f9;
+}
+
+#fullName:focus, #email:focus, #phone:focus, #degree:focus, 
+#College:focus, #branch:focus, #Passedout:focus, #otherdegree:focus {
+  border-color: #5a9bf2;
+  background-color: #eef7ff;
+  outline: none;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.apply {
+  background: linear-gradient(135deg, #3f72c4, #2a5298);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 12px 18px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s;
+  margin: 20px 0;
+}
+
+.apply:hover {
+  background: linear-gradient(135deg, #355a99, #243e6a);
+  transform: translateY(-3px);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.label-fullname, .label-email, .label-phone, .label-gender, 
+.label-degree, .label-otherdegree, .label-college, .label-branch, 
+.label-passedout, .label-address, .label-resume {
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 8px;
+  color: #444;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+input[type="text"], input[type="email"], input[type="number"], select {
+  background-color: #f5f8fa;
+  box-shadow: inset 0px 3px 6px rgba(0, 0, 0, 0.05);
+}
+
+textarea {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  min-height: 120px;
+  background-color: #f9f9f9;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+textarea:focus {
+  border-color: #5a9bf2;
+  background-color: #eef7ff;
+  outline: none;
+}
+
+input[type="file"] {
+  font-size: 14px;
+  background-color: #f5f8fa;
+  border: 1px solid #ddd;
+  padding: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+input[type="file"]:hover {
+  background-color: #eef7ff;
+  border-color: #5a9bf2;
+}
+.error {
+  color: red;
+  font-size: 0.9em;
+}

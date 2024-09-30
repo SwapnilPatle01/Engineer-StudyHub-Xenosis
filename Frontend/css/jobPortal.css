@@ -1,0 +1,535 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.navBar {
+  background-color: #181c14;
+  width: 100%;
+  height: 70px;
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-weight: 600;
+  font-style: normal;
+  border-bottom: 0.3px solid grey;
+}
+
+.navBar .left {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navBar .left img {
+  width: 140px;
+}
+
+.navBar .middle {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navBar .middle a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  margin: 0px 20px;
+  opacity: 0.8;
+}
+
+.navBar .right {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navBar .right button {
+  width: 90px;
+  height: 45px;
+  font-size: 14px;
+  border-radius: 25px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  border: none;
+}
+
+#logInBtn {
+  background-color: rgb(45, 45, 45);
+  color: white;
+  opacity: 0.8;
+  margin-right: 10px;
+}
+
+.subNavBar {
+  padding: 20px 0px;
+  background-color: #181c14;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  box-shadow: 0 1px 2px rgba(118, 118, 118, 0.2);
+}
+
+.searchBar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchBar input {
+  background-color: rgb(42, 42, 42);
+  border: none;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  color: white;
+  padding-left: 20px;
+  outline: none;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.searchBar button {
+  background-color: #3c3d37;
+}
+
+.filters {
+  margin-top:20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  justify-content: space-around;
+}
+
+.filter button {
+  width: auto;
+  font-size: 12px;
+  background-color: #3c3d37;
+}
+
+.dropdown-menu li a {
+  font-size: 15px;
+}
+
+.section {
+  width: 95%;
+  margin: 10px auto;
+}
+
+.sectionHeading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.sectionHeading div {
+  display: flex;
+  align-items: center;
+}
+
+.sectionHeading div span {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 0px 10px;
+}
+
+.sectionBody{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.job {
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  width: 23%;
+  box-shadow: 0px 0px 2px black;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.job:nth-child(1n) .cardBody {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.job:nth-child(8n+1) .cardBody {
+  background-color: #f8d7da;
+}
+
+.job:nth-child(8n+2) .cardBody {
+  background-color: #d1ecf1;
+}
+
+.job:nth-child(8n+3) .cardBody {
+  background-color: #d4edda;
+}
+
+.job:nth-child(8n+4) .cardBody {
+  background-color: #ffd1ec;
+}
+
+.job:nth-child(8n+5) .cardBody {
+  background-color: #d7ff93;
+}
+
+.job:nth-child(8n+6) .cardBody {
+  background-color: #bec0ff;
+}
+
+.job:nth-child(8n+7) .cardBody {
+  background-color: #ffc6a5;
+}
+
+.job:nth-child(8n+8) .cardBody {
+  background-color: #efadff;
+}
+
+
+.date {
+  font-size: 14px;
+}
+
+.cardHeading {
+  display: flex;
+}
+
+.cardHeading img {
+  width: 50px;
+  height: 50px;
+}
+
+.cardHeading h3{
+  font-size: 22px;
+}
+
+.jobFilters {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.jobFilters span {
+  padding: 3px;
+  margin: 5px;
+  border: 1px solid black;
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+.cardTitle {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardTitle button {
+  color: rgb(255, 255, 255);
+}
+
+
+.salary{
+  font-size: 20px;
+}
+
+.jobLocation{
+  font-size: 14px;
+}
+
+.location p {
+  padding: 0;
+  margin: 0;
+}
+
+.sideBar{
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 1900px;
+  z-index: 34;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.566);
+  backdrop-filter: blur(5px);
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  transition: 0.5s;
+}
+.sideBar span{
+  background-color: grey;
+  color: white;
+}
+.sideBar a{
+  text-decoration: none;
+  color: white;
+}
+
+.openSideBar{
+  margin: 10px 10px;
+  right: 0;
+  padding: 5px 5px;
+  position: fixed;
+display: none;
+}
+
+@media screen and (max-width: 1000px) {
+  .navBar {
+    height: 55px;
+  }
+.navBar .left img {
+  width: 120px;
+}
+
+.navBar .middle a {
+    font-size: 12px;
+  }
+
+  .navBar .right button {
+    width: 70px;
+    height: 40px;
+    font-size: 12px;
+  }
+
+
+
+  .searchBar input {
+    height: 35px;
+    font-size: 14px;
+  }
+  .searchBar button {
+   height: 30px;
+   font-size: 12px;
+  }
+
+  .filter button {
+    width: auto;
+    font-size: 10px;
+  }
+
+  .dropdown-menu li a {
+    font-size: 12px;
+  }
+
+  .sectionHeading h2 {
+    font-size: 22px;
+  }
+
+  .sectionHeading div span {
+    font-size: 12px;
+  }
+
+  .sectionHeading p{
+    font-size: 12px;
+  }
+
+  .job {
+    width: 30%;
+  }
+
+  .date {
+    font-size: 12px;
+  }
+  
+  .companyName{
+    font-size: 12px;
+  }
+
+  .cardHeading h3{
+    font-size: 19px;
+  }
+  .cardHeading img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .jobFilters span {
+    font-size: 10px;
+  }
+
+  .cardTitle button {
+    font-size: 12px;
+  }
+
+  .salary{
+    font-size: 18px;
+  }
+  
+  .jobLocation{
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+
+  .navBar {
+    justify-content: space-between;
+    height: 48px;
+  }
+  .navBar .left {
+    display: none;
+  }
+
+  .navBar .middle{
+    width: auto;
+  }
+
+  .navBar .middle a {
+    font-size: 11px;
+  }
+
+  .navBar .right button {
+    width: 60px;
+    height: 35px;
+    font-size: 10px;
+  }
+  .searchBar input {
+    height: 30px;
+    font-size: 12px;
+  }
+
+  .searchBar button {
+    height: 27px;
+    font-size: 10px;
+   }
+
+   .filter button {
+    margin: 5px 15px;
+   }
+
+   .filters{
+    justify-content: flex-start;
+    flex-wrap:wrap;
+   }
+
+   .sectionHeading h2 {
+    font-size: 20px;
+  }
+
+  .sectionHeading div span {
+    font-size: 10px;
+  }
+
+  .sectionHeading p{
+    font-size: 12px;
+  }
+
+  .job {
+    width: 30%;
+  }
+
+  .date {
+    font-size: 10px;
+  }
+  
+  .companyName{
+    font-size: 10px;
+  }
+
+  .cardHeading h3{
+    font-size: 17px;
+  }
+  .cardHeading img {
+    width: 30px;
+    height: 30px;
+  }
+
+  .jobFilters span {
+    font-size: 8px;
+  }
+
+  .cardTitle button {
+    font-size: 10px;
+  }
+
+  .salary{
+    font-size: 16px;
+  }
+  
+  .jobLocation{
+    font-size: 10px;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+.navBar{
+  display: none;
+}
+
+.openSideBar{
+  display: block;
+  position: absolute;
+}
+
+.sectionHeading h2 {
+  font-size: 18px;
+}
+
+.sectionHeading div span {
+  font-size: 8px;
+}
+
+.sectionHeading p{
+  font-size: 12px;
+}
+
+.job {
+  width: 40%;
+}
+}
+
+@media screen and (max-width: 450px) {
+  .searchBar input {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .job {
+    width: 80%;
+  }
+  .searchBar input {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .searchBar input {
+    width: 175px;
+  }
+}
