@@ -44,8 +44,8 @@ const form = document.getElementById('job-application-form');
     }
     if (isValid) {
       document.body.innerHTML =`
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-      <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2rem;">
+    <div style="display: flex; justify-content: center; align-items: center; height:100%">
+      <h1 style="font-family: "Poppins", sans-serif;font-optical-sizing: auto;font-weight: 800;font-style: normal;">
         Thank you for submitting your application!
       </h1>
     </div>`;
