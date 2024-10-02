@@ -38,7 +38,10 @@ body {
 }
 
 .left-side .highlight {
-  background: -webkit-linear-gradient(45deg,#004cff, rgb(76,215,183),
+  background: -webkit-linear-gradient(
+    45deg,
+    #004cff,
+     rgb(76,215,183),
   #004cff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
