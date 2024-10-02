@@ -18,6 +18,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #181c14;
 }
 
 .navBar .left img {
