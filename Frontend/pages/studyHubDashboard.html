@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="../Javascript//main.js" defer></script>
+        <link rel="shortcut icon" href="/img/favicon.ico"
+            type="image/x-icon" />
+        <link rel="stylesheet" href="../css/studyHubDashboard.css" />
+        <script src="../Javascript/studyHubDashboard.js" defer></script>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400&family=Inter:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet" />
+        <title>StudyHub-Dashboard</title>
+    </head>
+    <body>
+        <header>
+            <div class="arrow"></div>
+            <a href="../pages/index.html" class="arrow-img"><img
+                    src="../assets/logo_components/Arrow.svg"
+                    alt="arrow" /></a>
+        </header>
+
+        <section class="dashboard">
+            <div class="dashboard-container container flex">
+                <div class="dropdown-container">
+                    <div class="dashboard-heading">Dashboard</div>
+                    <div>
+                        <form>
+                            <select
+                                id="stream"
+                                onchange="updateSubjects()"
+                                class="dropdown-select">
+                                <option value disabled selected>Choose Your
+                                    Semester</option>
+                                <option value="cse1">B.Tech 1st
+                                    Semester All Branch</option>
+                                <option value="cse2">B.Tech 2nd
+                                    Semester All Branch</option>
+                                <option value="ece1">B.Tech CSE 3rd
+                                    Semester</option>
+                                <option value="CSE-4th-sem">B.Tech CSE 4th
+                                    Semester</option>
+                                <option value="CSE-5th-sem">B.Tech CSE 5th
+                                    Semester</option>
+                                <option value="CSE-6th-sem">B.Tech CSE 6th
+                                    Semester</option>
+                                <option value="CSE-7th-sem">B.Tech CSE 7th
+                                    Semester</option>
+                                <option value="CSE-8th-sem">B.Tech CSE 8th
+                                    Semester</option>
+                            </select>
+                            <br />
+                            <select
+                                id="subjects"
+                                onchange="updateTabs()"
+                                class="dropdown-select dynamic-dropdown ">
+                                <!-- Options will be dynamically populated here -->
+                            </select>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Tab Menu -->
+                <div class="tab-menu-container">
+                    <div id="tabMenu" class="tabs-container fadeIn">
+                        <button class="tab"
+                            onclick="openTab('pyq')">PYQ</button>
+                        <button class="tab"
+                            onclick="openTab('notes')">Notes</button>
+                        <button class="tab"
+                            onclick="openTab('videos')">Videos</button>
+                    </div>
+
+                    <!-- Tab contents -->
+                    <div class="tab-content-container">
+                        <div id="pyq" class="tab-content"
+                            style="display: none"></div>
+                        <div id="notes" class="tab-content"
+                            style="display: none"></div>
+                        <div id="videos" class="tab-content fadeIn">
+                            <div class="tab-content-container2"
+                                id="videosList"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>

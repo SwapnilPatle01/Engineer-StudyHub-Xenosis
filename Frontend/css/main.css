@@ -1,0 +1,979 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,700;1,200;1,300;1,400;1,500;1,600;1,800&family=Protest+Revolution&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 2rem;
+  line-height: 3rem;
+  font-family: " serif";
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2rem;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+ul {
+  list-style: none;
+}
+
+.logo {
+  width: 40%;
+}
+/* ######## utility classes ############*/
+
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+.small-bold-text {
+  font-size: 2rem;
+  font-weight: 500;
+}
+.primary-btn,
+.secondary-btn {
+  border: 2px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 10px 22px;
+  font-weight: 500;
+  transition: background-color 0.3s ease, color 0.3s ease,
+    transform 0.2s ease-out, box-shadow 0.3s ease;
+}
+
+.primary-btn {
+  color: #ffffff !important;
+}
+
+.secondary-btn {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0) !important;
+}
+
+.primary-btn:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0) !important;
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(52, 152, 219, 0.5);
+}
+
+.secondary-btn:hover {
+  background-color: rgb(0, 0, 0) !important ;
+  color: rgb(255, 255, 255) !important;
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* ######## Header section classes ############*/
+
+.header-left {
+  width: 60%;
+}
+.content-hero {
+  margin-bottom: 2rem;
+  font-weight: 200;
+  font-style: normal;
+  font-family: "Grenze Gotisch", serif;
+}
+.main-heading-hero {
+  font-size: 6rem;
+  /* font-family: "Grenze Gotisch", serif; */
+  line-height: 7rem;
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.spanALLHeading {
+  font-size: 14rem;
+  line-height: 1;
+}
+
+.header-right {
+  width: 40%;
+}
+.header-right img {
+  max-width: 100%;
+}
+.button-container {
+  text-align: left;
+  cursor: pointer;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: linear-gradient(90deg, #0072ff 0%, #00d4ff 100%);
+  border-radius: 6px;
+  border-color: #1f2667;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #e9ecf0;
+}
+
+/* ######## bannner classes ############*/
+
+.banner {
+  max-height: 100%;
+  padding: 2.5rem;
+  /* margin-top: 5rem; */
+  background-color: rgb(217, 217, 217);
+  color: black;
+}
+.banner-container {
+  justify-content: space-around;
+  text-align: center;
+}
+.banner-contain h1 {
+  font-size: 8rem;
+  font-weight: 900;
+}
+.banner-contain p {
+  font-size: 2.5rem;
+  font-weight: 300;
+}
+
+/* ######## features classes ############*/
+
+.features-left {
+  width: 70%;
+  margin-bottom: 15rem;
+}
+.features-right {
+  width: 40%;
+}
+.features-right img {
+  max-width: 91%;
+}
+.features-1,
+.features-2,
+.features-3 {
+  margin-top: 2rem;
+  background-color: rgb(235, 235, 235);
+  color: #333;
+  padding: 2rem;
+  text-align: left;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.features-1:hover,
+.features-2:hover,
+.features-3:hover {
+  background-color: rgb(217, 217, 217);
+}
+
+.features-heading {
+  font-size: 7rem;
+  margin-bottom: 1rem;
+  font-family: "Grenze Gotisch", serif;
+  font-weight: 700;
+}
+.features-box-1 {
+  gap: 2rem;
+}
+.features-contain {
+  /* width: 30rem; */
+  height: 400px;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.features-contain h1 {
+  font-family: "Grenze Gotisch", serif;
+  font-size: 7rem;
+}
+.features-contain p {
+  font-family: " serif";
+  font-size: 2rem;
+  text-align: left;
+}
+
+/* ######## FAQ classes ############*/
+
+.FAQ {
+  margin-top: 5rem;
+}
+.faqq {
+  cursor: pointer;
+}
+.FAQ-container {
+  justify-content: space-between;
+}
+.FAQ-left {
+  width: 50%;
+}
+.FAQ-left h1 {
+  font-family: "Grenze Gotisch", serif;
+  font-size: 7rem;
+}
+.FAQ-left p {
+  font-family: " serif";
+}
+.FAQ-right {
+  width: 50%;
+  padding-bottom: 1rem;
+}
+.question {
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+  border-top: 1px solid #ffffff;
+}
+
+.question h3 {
+  font-size: 1.8rem;
+  font-family: " serif";
+}
+.answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 1.4s ease;
+}
+.answer p {
+  padding-top: 1rem;
+  line-height: 1.6;
+  font-size: 1.7rem;
+  font-family: " serif";
+  padding-bottom: 2rem;
+}
+.ques-1 {
+  border-top: none;
+}
+.faqq.active .answer {
+  max-height: 300px;
+  animation: fade 1s ease-in-out;
+}
+.faqq.active svg {
+  transform: rotate(270deg);
+}
+svg {
+  transition: transform 0.5s ease-in;
+  font-size: 1.5rem;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+/* ############ Footer classes ##############*/
+
+.footer {
+  background-color: rgb(14, 14, 14);
+  margin-top: 5rem;
+}
+footer p {
+  font-family: " serif";
+}
+.footer-left {
+  width: 30%;
+}
+.footer-left img {
+  max-height: 220px;
+}
+.footer-right {
+  width: 70%;
+}
+.info-container {
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.footer-name-heading {
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: " serif";
+  color: #98bf91;
+}
+.footer-buttom {
+  background-color: rgb(14, 14, 14);
+  text-align: center;
+  font-family: " serif";
+}
+.footer-buttom p {
+  padding-left: 25rem;
+}
+.footer-info {
+  text-align: center;
+}
+.footer-info p a {
+  font-size: 1.8rem;
+}
+.footer-section-heading {
+  text-decoration: underline;
+}
+.social-link {
+  display: inline-block;
+  margin-right: 10px; /* Adjust spacing here */
+}
+
+/* ######################## Responsive ##############################*/
+
+@media (max-width: 600px) {
+  html {
+    font-size: 50%;
+  }
+
+  .container {
+    width: 100%;
+  }
+  /* ######## Sign up  classes for responsive ############*/
+
+  .cancelbtn,
+  .signupbtn {
+    width: 100%;
+  }
+  .modal-content {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 2% auto 3% auto;
+    width: 100%;
+  }
+
+  /*------------- Navbar---------------  */
+
+  .moblie-navbar-btn {
+    display: block;
+    z-index: 999;
+  }
+
+  .nav {
+    padding: 25px;
+    position: relative;
+  }
+  .primary-btn {
+    border: 1px solid #e5e7eb;
+    border-radius: 3px;
+    padding: 5px 11px;
+    color: #ffffff !important;
+    font-weight: 400;
+    transition: 0.2s ease-out;
+    font-size: 2rem;
+  }
+
+  .nav-links ul {
+    /* display: none; */
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+    width: 100%;
+    height: 10vh;
+    padding: 2em;
+    position: absolute;
+    top: 100%;
+    left: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+    transform: translateX(-100%);
+    transition: all 0.3s linear;
+
+    opacity: 1;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 999999;
+  }
+
+  .nav-links ul {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 100vh;
+  }
+  .nav-links ul li {
+    width: 100%;
+    text-align: left;
+  }
+  .nav-links ul {
+    justify-content: flex-start;
+    gap: 25px;
+  }
+  .nav-links ul li a {
+    font-weight: 900;
+    font-family: sans-serif;
+    width: 100%;
+    font-size: 20px;
+  }
+
+  .active .nav-links ul {
+    transform: translate(0);
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .active .moblie-navbar-btn .mobile-nav-icon[name="close-outline"] {
+    display: block;
+  }
+
+  .active .moblie-navbar-btn .mobile-nav-icon[name="menu-outline"] {
+    display: none;
+  }
+
+  /* ############# Header  ############# */
+
+  .header-section {
+    height: 85vh;
+    position: relative;
+    z-index: 0;
+  }
+  .header-right {
+    display: none;
+  }
+
+  .header-left {
+    width: 100%;
+    padding: 3rem;
+  }
+  .main-heading-hero {
+    font-size: 13vw;
+    letter-spacing: 0.23rem;
+  }
+  .spanALLHeading {
+    font-size: 35vw;
+    line-height: 1;
+  }
+  .content-hero {
+    margin-top: 16px;
+    font-size: 28px;
+    margin-bottom: 2rem;
+    letter-spacing: 0.23rem;
+  }
+  .button-container {
+    text-align: center;
+  }
+  .button {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  /* ######## bannner classes for responsive ############*/
+
+  .banner-container {
+    flex-direction: column;
+    gap: 5rem;
+  }
+
+  /* ######## features classes ############*/
+
+  .features-container {
+    width: 90%;
+  }
+
+  .features-left {
+    width: 100%;
+  }
+  .features-right {
+    display: none;
+  }
+  .features-box-1 {
+    flex-direction: column;
+  }
+  .features-contain {
+    height: 38rem;
+  }
+  .features-contain p {
+    font-size: 3rem;
+    line-height: 1.4;
+  }
+  .features-left {
+    margin-bottom: 0rem;
+  }
+
+  /* ######## FAQ classes ############*/
+
+  .FAQ {
+    margin-top: 3rem;
+  }
+  .FAQ-container {
+    width: 90%;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .FAQ-left,
+  .FAQ-right {
+    width: 100%;
+  }
+
+  /* ############ Footer classes ##############*/
+
+  .footer-right {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .footer-left {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-left img {
+    max-height: 300px;
+  }
+  .footer-container {
+    flex-direction: column;
+  }
+  .info-container {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .footer-info h3 {
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .footer-info p a {
+    font-size: 2rem;
+  }
+  .footer-buttom p {
+    padding: 0 2rem;
+  }
+}
+
+/* ##### 601 to 768 #### */
+
+@media (min-width: 601px) and (max-width: 768px) {
+  html {
+    font-size: 70%;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  /*------------- Navbar---------------  */
+
+  .moblie-navbar-btn {
+    display: block;
+    z-index: 999;
+  }
+
+  .nav {
+    padding: 25px;
+    position: relative;
+  }
+  .primary-btn {
+    border: 1px solid #e5e7eb;
+    border-radius: 3px;
+    padding: 5px 11px;
+    color: #ffffff !important;
+    font-weight: 400;
+    transition: 0.2s ease-out;
+    font-size: 2rem;
+  }
+
+  .nav-links ul {
+    /* display: none; */
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+    width: 100%;
+    height: 10vh;
+    padding: 2em;
+    position: absolute;
+    top: 100%;
+    left: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+    transform: translateX(-100%);
+    transition: all 0.3s linear;
+
+    opacity: 1;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 999999;
+  }
+
+  .nav-links ul {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 100vh;
+  }
+  .nav-links ul li {
+    width: 100%;
+    text-align: left;
+  }
+  .nav-links ul {
+    justify-content: flex-start;
+    gap: 25px;
+  }
+  .nav-links ul li a {
+    font-weight: 900;
+    font-family: sans-serif;
+    width: 100%;
+    font-size: 20px;
+  }
+
+  .active .nav-links ul {
+    transform: translate(0);
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .active .moblie-navbar-btn .mobile-nav-icon[name="close-outline"] {
+    display: block;
+  }
+
+  .active .moblie-navbar-btn .mobile-nav-icon[name="menu-outline"] {
+    display: none;
+  }
+
+  /* ######## Sign up  classes for responsive ############*/
+
+  .cancelbtn,
+  .signupbtn {
+    width: 100%;
+  }
+  .modal-content {
+    width: 100%;
+  }
+
+  /* ######## Header  classes for responsive ############*/
+
+  .header-section {
+    height: 85vh;
+    position: relative;
+    z-index: 0;
+  }
+  .header-right {
+    display: none;
+  }
+
+  .header-left {
+    width: 100%;
+    padding: 3rem;
+  }
+  .main-heading-hero {
+    font-size: 3.5rem;
+  }
+  .spanALLHeading {
+    font-size: 18rem;
+  }
+  .content-hero {
+    margin-bottom: 1rem;
+    letter-spacing: 0.23rem;
+  }
+  .button-container {
+    text-align: left;
+  }
+  /* ######## bannner classes for responsive ############*/
+
+  .banner-container {
+    flex-direction: column;
+    gap: 5rem;
+  }
+
+  /* ######## features classes ############*/
+
+  .features-container {
+    width: 90%;
+  }
+  .features-left {
+    width: 100%;
+  }
+  .features-right {
+    display: none;
+  }
+  .features-box-1 {
+    flex-direction: column;
+  }
+  .features-contain {
+    height: 390px;
+    width: 100%;
+  }
+  .features-contain p {
+    font-size: 3rem;
+    line-height: 1.4;
+  }
+  .features-left {
+    margin-bottom: 0rem;
+  }
+
+  /* ######## FAQ classes ############*/
+
+  .FAQ {
+    margin-top: 3rem;
+  }
+  .FAQ-container {
+    width: 90%;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .FAQ-left,
+  .FAQ-right {
+    width: 100%;
+  }
+}
+
+/* ##### 768 to 992#### */
+
+@media (min-width: 769px) and (max-width: 992px) {
+  html {
+    font-size: 80%;
+  }
+  .container {
+    width: 100%;
+  }
+
+  /*------------- Navbar---------------  */
+
+  .moblie-navbar-btn {
+    display: block;
+    z-index: 999;
+  }
+
+  .nav {
+    padding: 25px;
+    position: relative;
+  }
+  .primary-btn {
+    border: 1px solid #e5e7eb;
+    border-radius: 3px;
+    padding: 5px 11px;
+    color: #ffffff !important;
+    font-weight: 400;
+    transition: 0.2s ease-out;
+    font-size: 2rem;
+  }
+
+  .nav-links ul {
+    /* display: none; */
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+    width: 100%;
+    height: 10vh;
+    padding: 2em;
+    position: absolute;
+    top: 100%;
+    left: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+    transform: translateX(-100%);
+    transition: all 0.3s linear;
+
+    opacity: 1;
+    visibility: hidden;
+    pointer-events: none;
+    z-index: 999999;
+  }
+  .nav-links ul {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 100vh;
+  }
+  .nav-links ul li {
+    width: 100%;
+    text-align: left;
+  }
+  .nav-links ul {
+    justify-content: flex-start;
+    gap: 30px;
+  }
+  .nav-links ul li a {
+    font-weight: 900;
+    font-family: sans-serif;
+    width: 100%;
+    font-size: 40px;
+  }
+
+  .active .nav-links ul {
+    transform: translate(0);
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .active .moblie-navbar-btn .mobile-nav-icon[name="close-outline"] {
+    display: block;
+  }
+
+  .active .moblie-navbar-btn .mobile-nav-icon[name="menu-outline"] {
+    display: none;
+  }
+  .cancelbtn,
+  .signupbtn {
+    width: 50%;
+  }
+  .modal-content {
+    width: 100%;
+  }
+
+  /* Header  */
+
+  .header-section {
+    height: 85vh;
+    position: relative;
+    z-index: 0;
+  }
+  .header-right {
+    display: none;
+  }
+
+  .header-left {
+    width: 100%;
+    padding: 3rem;
+  }
+  .main-heading-hero {
+    font-size: 3.5rem;
+    /* letter-spacing: 0.23rem; */
+  }
+  .spanALLHeading {
+    font-size: 14rem;
+  }
+  .content-hero {
+    margin-bottom: 1rem;
+    letter-spacing: 0.23rem;
+  }
+
+  .button-container {
+    text-align: left;
+  }
+  /* ######## bannner classes for responsive ############*/
+
+  .banner-contain h1 {
+    font-size: 6rem;
+    font-weight: 800;
+  }
+  .banner-contain p {
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+
+  /* ######## features classes ############*/
+
+  .features-container {
+    width: 90%;
+  }
+  .features-left {
+    width: 100%;
+  }
+  .features-box-1 {
+    flex-direction: column;
+  }
+  .features-contain {
+    height: 390px;
+    width: 100%;
+  }
+  .features-contain p {
+    font-size: 3rem;
+    line-height: 1.4;
+  }
+  .features-left {
+    margin-bottom: 0rem;
+  }
+  .features-right {
+    display: none;
+    width: 0px;
+  }
+  /* ######## FAQ classes ############*/
+
+  .FAQ {
+    margin-top: 3rem;
+  }
+  .FAQ-container {
+    width: 90%;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  .FAQ-left,
+  .FAQ-right {
+    width: 100%;
+  }
+
+  /* ############ Footer classes ##############*/
+
+  .footer-right {
+    /* width: 0px; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .footer-left {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-left img {
+    max-height: 300px;
+  }
+  .footer-container {
+    flex-direction: column;
+  }
+  .info-container {
+    flex-direction: column;
+    gap: 5rem;
+    align-items: center;
+  }
+  .footer-info h3 {
+    font-family: sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 0.7rem;
+  }
+  .footer-info p a {
+    font-size: 2rem;
+  }
+  .footer-buttom p {
+    padding: 0 2rem;
+  }
+}
