@@ -15,6 +15,7 @@
             crossorigin="anonymous"></script>
 
         <link rel="stylesheet" href="../css/jobPortal.css" />
+        <link rel="stylesheet" href="../css/dashboard.css" />
         <link rel="stylesheet" href="../css/header.css" />
         <link rel="stylesheet" href="../css/footer.css">
     </head>
@@ -24,14 +25,54 @@
         <!-- Placeholder for Header -->
         <div id="header"></div>
 
-        <div>
-            <h1>Dashboard Page</h1>
+        <div class="dashboard-container">
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h2>Company Dashboard</h2>
+                </div>
+                <ul class="sidebar-menu">
+                    <li><a href="#"><i class="fas fa-home"></i> Dashboard</a></li>
+                    <li><a href="#"><i class="fas fa-briefcase"></i> Job Posts</a></li>
+                    <li><a href="#"><i class="fas fa-user"></i> Applications</a></li>
+                    <li><a href="#"><i class="fas fa-cogs"></i> Settings</a></li>
+                    <li><a href="#"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
+                </ul>
+            </aside>
+    
+            <main class="main-content">
+                <header class="main-header">
+                    <h1>Welcome to the Dashboard</h1>
+                    <button class="add-job-btn">+ Add New Job Post</button>
+                </header>
+    
+                <section class="stats-overview">
+                    <div class="stat-card">
+                        <h3>Job Posts</h3>
+                        <p id="job-count">10</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Applications</h3>
+                        <p id="application-count">25</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Active Jobs</h3>
+                        <p id="active-jobs-count">5</p>
+                    </div>
+                </section>
+    
+                <section class="job-management">
+                    <h2>Manage Job Posts</h2>
+                    <div id="job-list" class="job-list"></div>
+                </section>
+            </main>
         </div>
+    
 
         <!-- Placeholder for Footer -->
         <!-- <div id="footer"></div> -->
 
         <script src="../Javascript/jobPortal.js"></script>
+        <script src="../Javascript/dashboard.js"></script>
         <script src="../Javascript/main.js"></script>
 
     </body>
